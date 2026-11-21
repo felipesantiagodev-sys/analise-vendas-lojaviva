@@ -1,0 +1,14 @@
+# Ambiente virtual e caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Banco de dados gerado (pode ser recriado pelos scripts)
+*.db
+*.sqlite
+
+# Dados processados são gerados por código
+data/processed/*
+!data/processed/.gitkeep

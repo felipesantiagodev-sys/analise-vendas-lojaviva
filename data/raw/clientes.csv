@@ -1,0 +1,1516 @@
+id_cliente,nome,email,cidade,estado,data_cadastro,canal_aquisicao
+172,Elaine Souza,cliente172@email.com,Feira de Santana,BA,2025-02-23,Orgânico
+379,Marina Souza,cliente379@email.com,Rio de Janeiro,RJ,2024-03-29,Instagram
+989,Isabela Pereira,cliente989@email.com,Porto Alegre,RS,2024-04-02,Google Ads
+858,Isabela Pereira,cliente858@email.com,Niterói,RJ,2024-12-08,Indicação
+1322,Vinícius Silva,,Curitiba,PR,2025-09-12,
+1463,Ana Santos,cliente1463@email.com,Curitiba,PR,2025-03-31,Orgânico
+955,Rafaela Silva,cliente955@email.com,Campinas,SP,2025-11-10,Instagram
+1136,Vinícius Silva,cliente1136@email.com,Santos,sp,2024-06-27,Instagram
+1123,Paulo Silva,cliente1123@email.com,Olinda,PE,2024-05-24,Indicação
+244,Ana Pereira,cliente244@email.com,São Paulo,SP,2025-02-18,Indicação
+568,Felipe Lima,cliente568@email.com,Porto Alegre,RS,2024-04-02,Instagram
+726,João Ferreira,cliente726@email.com,Feira de Santana,BA,2025-06-08,Indicação
+1002,Felipe Lima,,Santos,SP,2024-07-01,Indicação
+256,Marina Almeida,cliente256@email.com,Belo Horizonte,MG,2025-06-03,E-mail
+623,Bruno Ferreira,cliente623@email.com,Santos,SP,2025-02-08,Indicação
+167,Marina Almeida,,Niterói,RJ,2025-07-10,Instagram
+775,Nicolas Lima,cliente775@email.com,CAMPINAS,SP,2024-08-14,Instagram
+447,Isabela Oliveira,cliente447@email.com,Feira de Santana,BA,2024-03-25,Instagram
+1021,Samuel Ferreira,cliente1021@email.com,Salvador,BA,2024-11-19,Instagram
+1111,Tatiana Silva,cliente1111@email.com,Feira de Santana,BA,2025-02-04,E-mail
+742,Bruno Oliveira,cliente742@email.com,Feira de Santana,BA,2024-06-07,Indicação
+530,João Santos,cliente530@email.com,Porto Alegre,RS,2025-11-05,E-mail
+77,Vinícius Pereira,cliente77@email.com,Curitiba,PR,2024-12-04,Orgânico
+189,Bruno Lima,cliente189@email.com,Uberlândia,MG,2025-10-04,Google Ads
+178,Hugo Ferreira,cliente178@email.com,Campinas,SP,2024-05-29,Indicação
+1196,  Carla Ferreira ,,Caxias do Sul,RS,2025-11-24,Instagram
+53,Tatiana Souza,cliente53@email.com,Recife,PE,2025-09-28,Indicação
+917,Ana Santos,cliente917@email.com,Santos,SP,2024-03-13,E-mail
+314,Olívia Oliveira,cliente314@email.com,Caruaru,PE,2024-03-16,E-mail
+1101,Elaine Costa,cliente1101@email.com,Caruaru,PE,2025-09-11,Indicação
+1194,Gabriela Rocha,cliente1194@email.com,Santos,SP,2025-09-14,Instagram
+204,Lucas Ferreira,cliente204@email.com,Caruaru,PE,2025-12-03,Orgânico
+381,Karen Lima,cliente381@email.com,Rio de Janeiro,RJ,2024-09-30,Orgânico
+1300,Olívia Pereira,cliente1300@email.com,Santos,SP,2024-06-13,E-mail
+1247,Marina Pereira,cliente1247@email.com,Uberlândia,MG,2025-10-21,Indicação
+567,Olívia Lima,cliente567@email.com,Niterói,RJ,2024-07-31,Orgânico
+740,Nicolas Lima,cliente740@email.com,Caruaru,PE,2024-02-11,Orgânico
+713,Paulo Pereira,cliente713@email.com,Sobral,CE,2025-09-06,Google Ads
+199,João Almeida,cliente199@email.com,Recife,PE,2024-02-08,Google Ads
+156,Gabriela Ferreira,cliente156@email.com,Niterói,RJ,2024-02-25,
+1069,Olívia Rocha,cliente1069@email.com,Olinda,PE,2025-03-01,Indicação
+1352,Rafaela Souza,cliente1352@email.com,Londrina,PR,2025-06-23,E-mail
+420,Tatiana Rocha,cliente420@email.com,Caruaru,PE,2025-07-20,E-mail
+435,Felipe Souza,cliente435@email.com,Uberlândia,MG,2025-12-20,E-mail
+847,Olívia Souza,cliente847@email.com,Caxias do Sul,RS,2024-06-27,Orgânico
+1379,Marina Costa,cliente1379@email.com,Caxias do Sul,RS,2025-12-29,E-mail
+1075,Olívia Ferreira,cliente1075@email.com,Brasília,DF,2024-10-13,Indicação
+101,Elaine Rocha,cliente101@email.com,Salvador,BA,2025-04-23,E-mail
+1224,Felipe Lima,cliente1224@email.com,Rio de Janeiro,RJ,2024-12-16,Google Ads
+865,Karen Pereira,cliente865@email.com,Santos,SP,2024-08-21,Orgânico
+481,Nicolas Almeida,,São Paulo,SP,2025-07-27,E-mail
+987,Samuel Oliveira,cliente987@email.com,Sobral,CE,2025-12-13,E-mail
+450,Olívia Ferreira,,Caruaru,PE,2025-03-17,Indicação
+474,Tatiana Ferreira,cliente474@email.com,São Paulo,SP,2025-11-26,Orgânico
+426,Carla Oliveira,cliente426@email.com,Porto Alegre,RS,2024-08-24,Instagram
+1469,Elaine Lima,cliente1469@email.com,Belo Horizonte,MG,2024-03-07,Indicação
+375,João Almeida,cliente375@email.com,Uberlândia,MG,2024-12-09,Instagram
+944,Samuel Santos,cliente944@email.com,Sobral,CE,2025-05-07,E-mail
+748,Olívia Santos,cliente748@email.com,Caruaru,PE,2024-12-20,Indicação
+819,Samuel Rocha,cliente819@email.com,Santos,SP,2024-12-12,Google Ads
+1420,Felipe Ferreira,cliente1420@email.com,Niterói,RJ,2024-02-03,Google Ads
+1131,Hugo Rocha,cliente1131@email.com,Rio de Janeiro,RJ,2025-03-25,Instagram
+1104,Isabela Silva,cliente1104@email.com,Campinas,SP,2024-03-16,E-mail
+106,Hugo Souza,cliente106@email.com,Caruaru,PE,2024-12-24,Google Ads
+708,Olívia Souza,cliente708@email.com,Niterói,RJ,2025-08-09,E-mail
+613,Tatiana Ferreira,cliente613@email.com,Olinda,PE,2025-02-06,Instagram
+688,Ana Souza,cliente688@email.com,São Paulo,SP,2024-01-03,Indicação
+340,Gabriela Rocha,cliente340@email.com,Niterói,RJ,2024-09-03,Google Ads
+1310,Samuel Rocha,cliente1310@email.com,Caruaru,PE,2024-01-24,Instagram
+795,Diego Almeida,,Santos,SP,2024-12-04,E-mail
+415,Paulo Santos,cliente415@email.com,Brasília,DF,2024-04-30,E-mail
+805,Diego Oliveira,cliente805@email.com,Sobral,CE,2025-09-12,Indicação
+693,Felipe Pereira,cliente693@email.com,Olinda,PE,2024-05-21,E-mail
+1076,Hugo Almeida,cliente1076@email.com,Porto Alegre,RS,2024-03-31,Indicação
+160,Carla Santos,cliente160@email.com,Recife,PE,2025-02-21,E-mail
+637,Vinícius Souza,cliente637@email.com,São Paulo,SP,2025-03-02,E-mail
+1344,Felipe Santos,cliente1344@email.com,Olinda,PE,2024-09-18,Google Ads
+1419,Rafaela Ferreira,cliente1419@email.com,Recife,PE,2025-12-22,Instagram
+990,Olívia Pereira,,Recife,PE,2025-12-24,Indicação
+1272,Tatiana Costa,cliente1272@email.com,São Paulo,SP,2024-10-31,Indicação
+1080,João Rocha,cliente1080@email.com,OLINDA,PE,2025-09-03,Google Ads
+1005,Carla Lima,cliente1005@email.com,Sobral,CE,2025-07-17,Instagram
+902,Elaine Almeida,cliente902@email.com,Salvador,ba,2024-04-19,Orgânico
+758,Marina Almeida,cliente758@email.com,LONDRINA,PR,2025-02-21,E-mail
+76,Gabriela Pereira,cliente76@email.com,Olinda,PE,2025-07-05,Google Ads
+418,Diego Almeida,cliente418@email.com,Caxias do Sul,RS,2025-04-22,Instagram
+559,Diego Santos,cliente559@email.com,Porto Alegre,RS,2024-11-10,E-mail
+1018,Paulo Almeida,cliente1018@email.com,Porto Alegre,RS,2025-11-19,Instagram
+17,Olívia Oliveira,cliente17@email.com,Campinas,SP,2025-10-20,Instagram
+429,Samuel Lima,,Rio de Janeiro,RJ,2024-10-08,Indicação
+556,Gabriela Ferreira,cliente556@email.com,Belo Horizonte,MG,2025-05-20,Instagram
+1455,Karen Pereira,cliente1455@email.com,Santos,SP,2025-05-31,Orgânico
+86,Gabriela Costa,cliente86@email.com,Caxias do Sul,RS,2025-08-12,E-mail
+1168,Samuel Souza,cliente1168@email.com,Santos,SP,2025-10-25,Instagram
+715,Samuel Ferreira,cliente715@email.com,Sobral,CE,2024-10-25,Google Ads
+155,Marina Ferreira,cliente155@email.com,São Paulo,SP,2024-04-28,Indicação
+882,Marina Costa,cliente882@email.com,Salvador,BA,2025-10-23,Orgânico
+329,Tatiana Costa,cliente329@email.com,Santos,SP,2024-08-03,Google Ads
+900,Hugo Oliveira,cliente900@email.com,Campinas,SP,2024-04-01,Google Ads
+1065,Marina Costa,cliente1065@email.com,Salvador,BA,2025-02-19,Instagram
+117,Isabela Pereira,cliente117@email.com,Rio de Janeiro,RJ,2025-08-29,Google Ads
+641,Bruno Santos,cliente641@email.com,Porto Alegre,RS,2024-07-24,E-mail
+1128,  Tatiana Ferreira ,cliente1128@email.com,São Paulo,SP,2025-12-01,Orgânico
+403,Gabriela Silva,cliente403@email.com,Rio de Janeiro,RJ,2025-07-06,Indicação
+124,Hugo Lima,cliente124@email.com,Santos,SP,2025-12-09,Indicação
+1070,Nicolas Ferreira,cliente1070@email.com,Campinas,SP,2025-06-05,E-mail
+763,Elaine Costa,cliente763@email.com,SANTOS,SP,2024-08-13,Orgânico
+744,Karen Ferreira,cliente744@email.com,Rio de Janeiro,rj,2024-03-15,Instagram
+762,Marina Costa,cliente762@email.com,Fortaleza,CE,2025-03-24,E-mail
+400,Bruno Costa,cliente400@email.com,Santos,SP,2024-04-25,Google Ads
+630,Diego Souza,cliente630@email.com,Belo Horizonte,MG,2025-08-19,Orgânico
+260,Felipe Pereira,cliente260@email.com,Niterói,RJ,2025-09-16,Orgânico
+537,Samuel Rocha,cliente537@email.com,Recife,pe,2025-07-03,Orgânico
+1108,Diego Silva,cliente1108@email.com,Curitiba,PR,2024-09-22,Google Ads
+854,Paulo Silva,cliente854@email.com,São Paulo,SP,2024-06-02,E-mail
+1497,Olívia Rocha,cliente1497@email.com,Feira de Santana,BA,2025-12-12,Indicação
+1213,Elaine Pereira,cliente1213@email.com,São Paulo,SP,2025-12-10,Google Ads
+583,Karen Costa,cliente583@email.com,Londrina,PR,2025-05-29,Instagram
+32,Olívia Souza,cliente32@email.com,Rio de Janeiro,RJ,2025-06-13,Instagram
+1205,Samuel Almeida,cliente1205@email.com,Porto Alegre,RS,2024-10-23,Orgânico
+237,Tatiana Almeida,cliente237@email.com,Niterói,RJ,2024-10-17,Google Ads
+705,Paulo Oliveira,cliente705@email.com,Rio de Janeiro,RJ,2025-04-25,E-mail
+558,Ana Pereira,cliente558@email.com,Belo Horizonte,MG,2025-12-11,E-mail
+242,Nicolas Silva,cliente242@email.com,Caxias do Sul,RS,2024-02-13,Google Ads
+158,Olívia Almeida,cliente158@email.com,Rio de Janeiro,RJ,2024-10-21,Google Ads
+841,Vinícius Pereira,cliente841@email.com,São Paulo,SP,2024-09-12,Google Ads
+15,Karen Costa,cliente15@email.com,Campinas,SP,2024-02-02,Google Ads
+1154,Paulo Santos,cliente1154@email.com,Santos,SP,2025-06-18,E-mail
+1295,Hugo Lima,cliente1295@email.com,Rio de Janeiro,RJ,2025-11-30,Orgânico
+505,Felipe Pereira,cliente505@email.com,Santos,SP,2025-07-05,Orgânico
+493,Karen Almeida,cliente493@email.com,Santos,SP,2024-07-10,Google Ads
+1366,Paulo Oliveira,cliente1366@email.com,Porto Alegre,RS,2024-08-02,E-mail
+278,Isabela Almeida,cliente278@email.com,Caruaru,PE,2024-06-13,Instagram
+542,Elaine Silva,cliente542@email.com,Recife,PE,2025-12-25,E-mail
+553,Carla Almeida,cliente553@email.com,Brasília,DF,2025-02-14,Orgânico
+1336,Gabriela Rocha,cliente1336@email.com,Porto Alegre,RS,2025-08-22,Indicação
+60,Carla Costa,cliente60@email.com,Londrina,PR,2024-02-22,Google Ads
+579,João Almeida,cliente579@email.com,Uberlândia,MG,2025-10-24,Indicação
+644,Felipe Almeida,cliente644@email.com,Niterói,RJ,2025-04-01,Orgânico
+1243,Olívia Ferreira,cliente1243@email.com,Salvador,BA,2025-02-09,Google Ads
+529,Samuel Rocha,cliente529@email.com,Uberlândia,MG,2024-09-11,Google Ads
+1355,Rafaela Souza,cliente1355@email.com,Caruaru,PE,2024-02-16,E-mail
+584,Hugo Silva,cliente584@email.com,Olinda,PE,2025-09-03,Google Ads
+1311,Gabriela Lima,cliente1311@email.com,Curitiba,PR,2025-04-18,Google Ads
+832,Diego Ferreira,cliente832@email.com,Niterói,RJ,2024-12-14,Indicação
+662,Lucas Lima,cliente662@email.com,Sobral,CE,2024-12-05,E-mail
+1027,Gabriela Souza,cliente1027@email.com,Olinda,PE,2024-02-08,Indicação
+50,Vinícius Souza,cliente50@email.com,Uberlândia,MG,2024-02-10,Indicação
+1315,João Almeida,cliente1315@email.com,Campinas,SP,2024-09-29,Instagram
+1090,Paulo Lima,cliente1090@email.com,Campinas,SP,2025-02-12,Indicação
+1038,João Rocha,cliente1038@email.com,São Paulo,SP,2025-12-22,Instagram
+1232,Rafaela Rocha,cliente1232@email.com,São Paulo,SP,2024-06-13,Indicação
+669,Elaine Rocha,cliente669@email.com,Sobral,CE,2024-03-31,E-mail
+1361,Diego Costa,cliente1361@email.com,Santos,SP,2025-11-20,Google Ads
+318,Lucas Almeida,cliente318@email.com,Santos,SP,2025-08-09,Instagram
+1423,João Almeida,,BRASÍLIA,DF,2024-11-06,Instagram
+1103,Olívia Lima,cliente1103@email.com,Niterói,RJ,2024-03-18,Orgânico
+327,Felipe Rocha,cliente327@email.com,Londrina,PR,2024-06-06,Indicação
+1010,Lucas Oliveira,cliente1010@email.com,Niterói,RJ,2025-09-30,Indicação
+431,Gabriela Rocha,cliente431@email.com,NITERÓI,RJ,2024-09-03,Orgânico
+1081,Felipe Rocha,cliente1081@email.com,Belo Horizonte,MG,2025-08-15,Orgânico
+1301,Carla Almeida,cliente1301@email.com,Sobral,CE,2024-10-07,E-mail
+367,Diego Rocha,,Salvador,BA,2024-05-20,Instagram
+210,Elaine Silva,cliente210@email.com,Olinda,PE,2024-01-27,Instagram
+808,Rafaela Costa,cliente808@email.com,Rio de Janeiro,RJ,2024-02-14,E-mail
+68,Hugo Lima,cliente68@email.com,Fortaleza,CE,2025-02-25,Google Ads
+849,Felipe Ferreira,cliente849@email.com,Campinas,SP,2024-09-22,Instagram
+961,Bruno Santos,cliente961@email.com,Londrina,PR,2024-01-23,Orgânico
+629,Diego Costa,cliente629@email.com,Belo Horizonte,MG,2025-03-05,Instagram
+978,Isabela Costa,cliente978@email.com,São Paulo,SP,2024-01-16,Instagram
+243,Nicolas Rocha,cliente243@email.com,CAXIAS DO SUL,RS,2025-08-12,E-mail
+975,Ana Pereira,cliente975@email.com,São Paulo,SP,2025-12-04,E-mail
+1269,Gabriela Pereira,cliente1269@email.com,Olinda,PE,2025-11-22,Indicação
+1389,Samuel Silva,cliente1389@email.com,Belo Horizonte,MG,2024-04-14,Instagram
+1431,Ana Rocha,cliente1431@email.com,Uberlândia,MG,2024-06-18,Indicação
+483,Tatiana Costa,cliente483@email.com,Caxias do Sul,RS,2025-04-05,Google Ads
+785,Tatiana Oliveira,cliente785@email.com,Santos,SP,2025-08-02,E-mail
+839,Tatiana Lima,cliente839@email.com,São Paulo,SP,2024-08-11,Instagram
+577,Felipe Pereira,cliente577@email.com,São Paulo,SP,2025-03-12,Instagram
+219,Samuel Santos,cliente219@email.com,Sobral,CE,2024-04-27,E-mail
+766,Samuel Souza,,Uberlândia,MG,2025-07-04,Instagram
+279,Hugo Almeida,cliente279@email.com,Caxias do Sul,RS,2024-04-03,Google Ads
+889,Karen Costa,cliente889@email.com,OLINDA,PE,2024-08-10,E-mail
+697,Diego Costa,cliente697@email.com,Brasília,DF,2024-06-12,Indicação
+1483,Diego Silva,cliente1483@email.com,Belo Horizonte,MG,2024-03-08,Orgânico
+1148,Gabriela Rocha,cliente1148@email.com,Caxias do Sul,RS,2024-05-28,Instagram
+464,Ana Almeida,cliente464@email.com,Salvador,BA,2025-07-17,E-mail
+1031,Diego Silva,cliente1031@email.com,Campinas,SP,2025-06-18,Google Ads
+539,Carla Lima,cliente539@email.com,Santos,SP,2025-08-23,E-mail
+807,Samuel Silva,cliente807@email.com,Uberlândia,MG,2025-09-09,Indicação
+294,Felipe Almeida,cliente294@email.com,Santos,SP,2025-10-20,E-mail
+89,Olívia Oliveira,cliente89@email.com,Campinas,SP,2024-05-04,Indicação
+355,Vinícius Costa,cliente355@email.com,Rio de Janeiro,RJ,2025-06-20,Instagram
+268,Gabriela Santos,cliente268@email.com,CURITIBA,PR,2025-05-12,Instagram
+1084,Ana Souza,cliente1084@email.com,Santos,SP,2024-09-20,Instagram
+300,Lucas Ferreira,cliente300@email.com,Niterói,RJ,2025-05-24,Google Ads
+232,Gabriela Costa,cliente232@email.com,Olinda,PE,2025-06-27,E-mail
+1380,Vinícius Santos,cliente1380@email.com,Sobral,CE,2024-06-14,Google Ads
+645,Carla Lima,cliente645@email.com,São Paulo,SP,2024-09-21,E-mail
+382,Hugo Silva,cliente382@email.com,Belo Horizonte,MG,2025-12-10,E-mail
+449,Lucas Lima,cliente449@email.com,Curitiba,pr,2025-03-31,Instagram
+1230,Gabriela Rocha,cliente1230@email.com,Fortaleza,CE,2025-09-08,Instagram
+1045,Isabela Pereira,cliente1045@email.com,Campinas,SP,2025-09-23,Instagram
+411,Karen Souza,cliente411@email.com,Campinas,SP,2024-07-27,Orgânico
+1041,Felipe Rocha,,Caruaru,PE,2025-02-05,E-mail
+520,Gabriela Almeida,cliente520@email.com,Salvador,BA,2024-01-02,Instagram
+1490,Olívia Oliveira,,Rio de Janeiro,RJ,2025-09-27,Instagram
+1384,Bruno Souza,cliente1384@email.com,Campinas,SP,2025-05-30,E-mail
+286,Bruno Santos,cliente286@email.com,Campinas,SP,2024-05-04,Indicação
+884,Isabela Costa,cliente884@email.com,São Paulo,SP,2025-06-28,Google Ads
+1187,Samuel Silva,cliente1187@email.com,Santos,SP,2024-07-29,Orgânico
+1372,João Silva,cliente1372@email.com,Uberlândia,MG,2025-07-21,E-mail
+952,Diego Lima,cliente952@email.com,Olinda,PE,2025-12-11,E-mail
+1411,Lucas Lima,cliente1411@email.com,Caxias do Sul,RS,2024-08-27,Indicação
+971,Felipe Pereira,,Rio de Janeiro,RJ,2024-05-01,Google Ads
+1223,Lucas Oliveira,cliente1223@email.com,Campinas,SP,2025-12-08,Indicação
+1319,Elaine Pereira,cliente1319@email.com,Caruaru,PE,2025-04-25,
+272,Hugo Almeida,cliente272@email.com,Caruaru,PE,2025-01-08,Orgânico
+354,Tatiana Santos,cliente354@email.com,Brasília,DF,2025-08-15,Indicação
+233,João Pereira,cliente233@email.com,Santos,SP,2025-01-13,Indicação
+738,Vinícius Santos,cliente738@email.com,Fortaleza,ce,2025-07-13,Orgânico
+1254,Samuel Silva,cliente1254@email.com,Rio de Janeiro,RJ,2025-07-07,E-mail
+1064,Hugo Costa,cliente1064@email.com,Caxias do Sul,RS,2024-02-01,Orgânico
+396,Marina Souza,cliente396@email.com,Rio de Janeiro,RJ,2025-01-21,Orgânico
+1160,Lucas Lima,cliente1160@email.com,Curitiba,PR,2024-05-15,Google Ads
+1251,Vinícius Pereira,cliente1251@email.com,Brasília,DF,2025-01-26,Orgânico
+432,Carla Pereira,cliente432@email.com,Campinas,SP,2025-02-10,E-mail
+606,Paulo Rocha,cliente606@email.com,Rio de Janeiro,RJ,2024-04-13,Instagram
+11,Lucas Oliveira,cliente11@email.com,Campinas,SP,2025-10-12,Orgânico
+73,Bruno Souza,cliente73@email.com,Santos,SP,2024-09-28,E-mail
+1221,Samuel Ferreira,cliente1221@email.com,Salvador,BA,2025-06-22,E-mail
+29,Elaine Oliveira,cliente29@email.com,Sobral,CE,2025-06-29,Indicação
+569,Elaine Souza,cliente569@email.com,Porto Alegre,RS,2024-12-01,Orgânico
+678,Bruno Costa,cliente678@email.com,Santos,SP,2025-01-10,Orgânico
+466,Isabela Oliveira,cliente466@email.com,Uberlândia,MG,2024-09-04,E-mail
+1390,Lucas Oliveira,cliente1390@email.com,Uberlândia,MG,2024-07-29,E-mail
+1325,Karen Almeida,cliente1325@email.com,São Paulo,SP,2025-05-19,Google Ads
+954,Samuel Almeida,cliente954@email.com,Rio de Janeiro,RJ,2024-09-21,Google Ads
+958,  João Costa ,cliente958@email.com,Porto Alegre,RS,2024-01-20,E-mail
+257,Gabriela Pereira,cliente257@email.com,Londrina,PR,2025-08-08,Indicação
+1229,Carla Lima,cliente1229@email.com,Curitiba,PR,2024-02-14,Google Ads
+545,Isabela Rocha,cliente545@email.com,Santos,SP,2024-03-06,Google Ads
+42,Ana Souza,cliente42@email.com,Belo Horizonte,MG,2025-07-07,Instagram
+604,Ana Silva,cliente604@email.com,Campinas,SP,2024-04-20,
+745,Felipe Costa,cliente745@email.com,Niterói,RJ,2025-06-01,Google Ads
+406,Tatiana Oliveira,cliente406@email.com,Santos,sp,2025-07-24,E-mail
+941,Hugo Costa,cliente941@email.com,Uberlândia,MG,2024-04-02,E-mail
+1474,Ana Costa,cliente1474@email.com,Rio de Janeiro,RJ,2024-11-19,Orgânico
+573,Lucas Souza,cliente573@email.com,Caruaru,PE,2025-02-14,Indicação
+336,Diego Silva,cliente336@email.com,Niterói,RJ,2024-05-24,E-mail
+656,Marina Costa,cliente656@email.com,Santos,SP,2025-03-04,Google Ads
+358,Bruno Oliveira,cliente358@email.com,Fortaleza,CE,2025-04-27,Indicação
+736,Karen Ferreira,cliente736@email.com,São Paulo,SP,2025-12-02,
+297,Paulo Lima,cliente297@email.com,São Paulo,SP,2025-07-10,Instagram
+1341,Bruno Rocha,cliente1341@email.com,Uberlândia,MG,2024-12-03,Orgânico
+707,Marina Santos,cliente707@email.com,Rio de Janeiro,RJ,2025-01-22,E-mail
+1177,Ana Lima,cliente1177@email.com,Niterói,RJ,2025-10-04,Indicação
+1289,Hugo Souza,cliente1289@email.com,Curitiba,PR,2024-05-23,Indicação
+907,Samuel Oliveira,cliente907@email.com,Porto Alegre,RS,2025-09-05,Indicação
+1088,Olívia Oliveira,cliente1088@email.com,Fortaleza,CE,2024-08-31,Indicação
+575,Karen Souza,cliente575@email.com,Fortaleza,CE,2024-04-04,E-mail
+1073,Bruno Rocha,cliente1073@email.com,Uberlândia,MG,2024-02-04,Orgânico
+999,Gabriela Silva,cliente999@email.com,Belo Horizonte,MG,2025-07-24,Instagram
+1029,João Pereira,cliente1029@email.com,Curitiba,PR,2025-06-20,Google Ads
+596,Felipe Costa,cliente596@email.com,Santos,sp,2024-05-19,E-mail
+1255,Marina Almeida,cliente1255@email.com,Caxias do Sul,RS,2024-05-01,E-mail
+639,Carla Lima,cliente639@email.com,Niterói,RJ,2024-06-11,Instagram
+1260,Vinícius Pereira,,Niterói,RJ,2025-01-21,Orgânico
+1019,Olívia Ferreira,cliente1019@email.com,Niterói,RJ,2025-10-04,
+524,Elaine Souza,cliente524@email.com,Caruaru,PE,2024-05-16,Indicação
+252,Vinícius Pereira,cliente252@email.com,Niterói,RJ,2025-08-01,Instagram
+1206,Paulo Ferreira,cliente1206@email.com,Caxias do Sul,RS,2024-11-07,Instagram
+52,João Almeida,cliente52@email.com,Campinas,SP,2024-05-14,Google Ads
+397,Marina Ferreira,cliente397@email.com,Recife,PE,2025-07-04,Instagram
+823,Vinícius Silva,cliente823@email.com,Belo Horizonte,MG,2024-10-20,E-mail
+1348,Gabriela Almeida,cliente1348@email.com,Caxias do Sul,RS,2025-06-08,E-mail
+96,Nicolas Silva,cliente96@email.com,São Paulo,SP,2025-04-22,E-mail
+180,Hugo Almeida,cliente180@email.com,Porto Alegre,RS,2025-09-26,Instagram
+3,Hugo Ferreira,cliente3@email.com,Caruaru,PE,2024-08-11,Google Ads
+1305,João Pereira,cliente1305@email.com,Santos,SP,2025-10-05,Google Ads
+949,Vinícius Oliveira,cliente949@email.com,Uberlândia,MG,2025-03-28,Google Ads
+609,Carla Pereira,cliente609@email.com,Feira de Santana,BA,2025-07-14,Google Ads
+927,Samuel Santos,cliente927@email.com,Uberlândia,MG,2025-07-30,Indicação
+236,Gabriela Ferreira,cliente236@email.com,Rio de Janeiro,rj,2024-10-06,Orgânico
+1216,Samuel Pereira,cliente1216@email.com,Uberlândia,MG,2024-06-20,Orgânico
+183,João Costa,cliente183@email.com,Londrina,PR,2025-08-24,E-mail
+1279,Vinícius Costa,cliente1279@email.com,Curitiba,PR,2025-06-29,Indicação
+1085,Olívia Pereira,cliente1085@email.com,Curitiba,PR,2024-06-03,Orgânico
+238,Bruno Silva,cliente238@email.com,São Paulo,SP,2025-09-05,Orgânico
+19,Marina Pereira,cliente19@email.com,Rio de Janeiro,RJ,2025-08-20,Instagram
+1339,Karen Oliveira,cliente1339@email.com,São Paulo,SP,2024-04-18,Google Ads
+1079,Lucas Lima,cliente1079@email.com,Feira de Santana,BA,2025-03-07,Instagram
+921,Samuel Costa,cliente921@email.com,Recife,PE,2024-08-24,Instagram
+202,Vinícius Costa,cliente202@email.com,Uberlândia,MG,2025-05-16,Google Ads
+292,Lucas Santos,cliente292@email.com,Santos,sp,2024-03-10,Google Ads
+719,Tatiana Souza,cliente719@email.com,Londrina,PR,2025-11-19,E-mail
+1140,Diego Oliveira,cliente1140@email.com,Santos,SP,2024-07-17,E-mail
+1202,Rafaela Pereira,cliente1202@email.com,São Paulo,SP,2025-05-01,Indicação
+1414,Carla Souza,cliente1414@email.com,Salvador,BA,2025-02-25,E-mail
+1217,Lucas Souza,cliente1217@email.com,Santos,SP,2025-12-15,Indicação
+154,Bruno Almeida,cliente154@email.com,Fortaleza,CE,2025-07-17,Orgânico
+1253,Paulo Almeida,cliente1253@email.com,Santos,SP,2025-11-08,Orgânico
+672,Hugo Santos,,Caruaru,PE,2024-01-05,Orgânico
+277,Diego Ferreira,cliente277@email.com,Porto Alegre,RS,2025-07-21,Orgânico
+970,Felipe Pereira,cliente970@email.com,Belo Horizonte,MG,2025-08-01,Indicação
+174,  Paulo Ferreira ,cliente174@email.com,São Paulo,SP,2024-11-20,Indicação
+620,Diego Souza,cliente620@email.com,Caruaru,PE,2025-12-14,Orgânico
+192,Isabela Almeida,cliente192@email.com,Londrina,PR,2024-06-17,Orgânico
+956,Vinícius Lima,cliente956@email.com,Recife,PE,2024-07-24,E-mail
+1491,Elaine Lima,cliente1491@email.com,Sobral,CE,2024-03-02,Indicação
+254,Carla Lima,cliente254@email.com,Olinda,PE,2025-06-03,E-mail
+1135,Isabela Ferreira,cliente1135@email.com,Campinas,SP,2025-10-17,E-mail
+853,Samuel Costa,cliente853@email.com,Feira de Santana,BA,2024-08-29,Instagram
+1359,Olívia Rocha,,Campinas,SP,2025-04-10,Orgânico
+862,Olívia Souza,cliente862@email.com,Feira de Santana,BA,2025-05-14,Indicação
+69,Paulo Santos,cliente69@email.com,São Paulo,SP,2024-02-09,E-mail
+1009,João Costa,cliente1009@email.com,Londrina,PR,2025-12-24,Orgânico
+508,Marina Almeida,cliente508@email.com,Salvador,BA,2024-09-10,Indicação
+657,Gabriela Pereira,cliente657@email.com,Belo Horizonte,MG,2025-08-08,Indicação
+1259,Rafaela Silva,cliente1259@email.com,Uberlândia,MG,2024-06-09,Orgânico
+269,Rafaela Ferreira,cliente269@email.com,Caruaru,PE,2024-04-13,Indicação
+1004,Karen Pereira,cliente1004@email.com,Olinda,PE,2024-11-02,Google Ads
+1488,Ana Rocha,cliente1488@email.com,Santos,SP,2024-04-15,Google Ads
+1157,Bruno Silva,cliente1157@email.com,Caxias do Sul,RS,2025-03-03,Indicação
+1296,João Silva,cliente1296@email.com,Rio de Janeiro,RJ,2025-01-11,Google Ads
+844,Isabela Almeida,cliente844@email.com,Porto Alegre,RS,2025-08-11,Indicação
+871,Marina Lima,,Belo Horizonte,MG,2024-03-27,Instagram
+1328,Isabela Rocha,cliente1328@email.com,Londrina,PR,2024-10-16,Indicação
+1262,Ana Pereira,,Sobral,CE,2025-08-20,Google Ads
+274,Gabriela Pereira,cliente274@email.com,Brasília,DF,2025-04-25,E-mail
+1094,Isabela Pereira,cliente1094@email.com,Uberlândia,MG,2025-10-29,Orgânico
+1337,Nicolas Souza,cliente1337@email.com,Fortaleza,CE,2024-07-03,E-mail
+1257,João Costa,cliente1257@email.com,Niterói,RJ,2024-05-17,Google Ads
+968,Elaine Rocha,cliente968@email.com,Rio de Janeiro,RJ,2024-07-30,Instagram
+1089,Bruno Lima,cliente1089@email.com,Salvador,BA,2024-12-19,Google Ads
+208,Hugo Pereira,cliente208@email.com,São Paulo,sp,2024-08-09,Indicação
+1112,Samuel Santos,cliente1112@email.com,Rio de Janeiro,RJ,2024-03-12,E-mail
+701,Rafaela Rocha,cliente701@email.com,Caruaru,PE,2025-11-25,Indicação
+1056,Vinícius Costa,cliente1056@email.com,Uberlândia,MG,2025-12-02,E-mail
+1370,João Rocha,cliente1370@email.com,Uberlândia,MG,2024-07-25,Google Ads
+870,Rafaela Souza,cliente870@email.com,Recife,PE,2025-02-10,Orgânico
+70,Hugo Silva,cliente70@email.com,Santos,SP,2024-08-21,Instagram
+261,Vinícius Silva,cliente261@email.com,Santos,SP,2024-12-12,Orgânico
+786,Hugo Almeida,cliente786@email.com,Curitiba,PR,2024-02-11,Google Ads
+441,Samuel Pereira,cliente441@email.com,Caxias do Sul,RS,2025-02-02,Instagram
+253,Olívia Lima,cliente253@email.com,Niterói,RJ,2025-04-25,Indicação
+912,Elaine Rocha,cliente912@email.com,Feira de Santana,BA,2025-07-18,Orgânico
+931,Isabela Ferreira,cliente931@email.com,Porto Alegre,RS,2024-01-23,Google Ads
+1170,Gabriela Santos,cliente1170@email.com,Feira de Santana,BA,2025-08-17,Orgânico
+1265,Karen Oliveira,cliente1265@email.com,Porto Alegre,RS,2024-04-27,Indicação
+295,Carla Almeida,cliente295@email.com,Belo Horizonte,MG,2024-05-18,Orgânico
+589,Tatiana Rocha,cliente589@email.com,Salvador,BA,2024-12-26,Indicação
+534,Paulo Souza,cliente534@email.com,Rio de Janeiro,RJ,2024-06-25,Indicação
+720,Elaine Almeida,cliente720@email.com,Belo Horizonte,MG,2025-05-31,Indicação
+461,Karen Lima,cliente461@email.com,Santos,SP,2025-02-11,E-mail
+1201,Nicolas Oliveira,cliente1201@email.com,Fortaleza,CE,2025-03-10,Instagram
+820,Ana Souza,cliente820@email.com,São Paulo,sp,2025-10-13,E-mail
+467,Paulo Rocha,cliente467@email.com,Olinda,PE,2025-09-04,Indicação
+1114,Bruno Souza,cliente1114@email.com,Feira de Santana,BA,2025-02-14,Indicação
+454,Felipe Oliveira,cliente454@email.com,Campinas,SP,2025-01-24,Orgânico
+1417,Nicolas Almeida,cliente1417@email.com,Uberlândia,MG,2025-10-13,E-mail
+45,Paulo Oliveira,cliente45@email.com,Salvador,ba,2025-07-23,Orgânico
+1376,Olívia Costa,cliente1376@email.com,Curitiba,PR,2024-12-21,Instagram
+1473,Hugo Silva,cliente1473@email.com,Campinas,sp,2024-02-14,E-mail
+1399,Elaine Rocha,cliente1399@email.com,Fortaleza,CE,2025-11-07,Indicação
+1382,Paulo Lima,cliente1382@email.com,Rio de Janeiro,RJ,2025-03-01,Instagram
+220,Karen Almeida,cliente220@email.com,Caxias do Sul,RS,2025-02-27,E-mail
+142,João Almeida,cliente142@email.com,São Paulo,SP,2025-12-24,Instagram
+802,Isabela Oliveira,cliente802@email.com,Uberlândia,MG,2025-06-07,E-mail
+1120,Ana Silva,cliente1120@email.com,Niterói,RJ,2025-04-05,
+822,Bruno Costa,,Campinas,SP,2025-09-15,Indicação
+182,Samuel Oliveira,cliente182@email.com,Curitiba,PR,2025-11-24,E-mail
+694,Carla Pereira,cliente694@email.com,LONDRINA,PR,2024-10-01,Instagram
+94,Carla Oliveira,cliente94@email.com,São Paulo,SP,2025-07-07,Instagram
+1294,Lucas Souza,cliente1294@email.com,Olinda,PE,2025-06-30,Indicação
+1106,Vinícius Costa,cliente1106@email.com,Recife,PE,2024-07-24,E-mail
+471,Marina Pereira,cliente471@email.com,Brasília,DF,2025-11-24,Google Ads
+417,João Lima,cliente417@email.com,Niterói,RJ,2025-01-02,Indicação
+1274,Paulo Costa,cliente1274@email.com,Recife,PE,2025-06-27,Orgânico
+1368,Ana Souza,cliente1368@email.com,São Paulo,SP,2025-03-08,Instagram
+1275,João Ferreira,cliente1275@email.com,Sobral,CE,2025-10-29,E-mail
+1149,Olívia Santos,cliente1149@email.com,Santos,SP,2024-05-19,Orgânico
+1449,Hugo Ferreira,cliente1449@email.com,Campinas,SP,2024-06-21,Indicação
+372,Samuel Silva,cliente372@email.com,Belo Horizonte,MG,2024-08-25,E-mail
+1172,Paulo Ferreira,cliente1172@email.com,Santos,SP,2025-04-08,Google Ads
+1349,Vinícius Costa,cliente1349@email.com,Rio de Janeiro,RJ,2025-07-30,E-mail
+593,Karen Silva,cliente593@email.com,São Paulo,SP,2024-06-30,Instagram
+1092,Ana Lima,cliente1092@email.com,Niterói,RJ,2025-03-21,E-mail
+437,Tatiana Almeida,cliente437@email.com,Campinas,SP,2025-12-09,Google Ads
+1330,Olívia Silva,cliente1330@email.com,Porto Alegre,RS,2025-11-04,Instagram
+65,Lucas Santos,cliente65@email.com,Santos,SP,2024-02-10,Instagram
+1171,  Nicolas Lima ,cliente1171@email.com,Porto Alegre,RS,2025-05-30,Google Ads
+1227,Bruno Santos,cliente1227@email.com,Fortaleza,CE,2025-03-17,Google Ads
+480,Hugo Ferreira,cliente480@email.com,Salvador,BA,2024-06-17,Indicação
+997,Paulo Almeida,cliente997@email.com,Campinas,SP,2025-11-06,E-mail
+1192,Bruno Oliveira,cliente1192@email.com,Salvador,BA,2025-05-05,Orgânico
+5,Felipe Costa,cliente5@email.com,Uberlândia,MG,2024-01-07,Orgânico
+1127,Nicolas Pereira,cliente1127@email.com,Santos,SP,2024-07-26,E-mail
+513,Paulo Lima,cliente513@email.com,Brasília,DF,2024-08-04,Orgânico
+1209,Hugo Silva,cliente1209@email.com,Curitiba,PR,2025-10-22,Orgânico
+245,Lucas Souza,cliente245@email.com,Niterói,RJ,2025-12-07,Google Ads
+207,Tatiana Santos,cliente207@email.com,São Paulo,SP,2024-05-08,Indicação
+305,Carla Costa,,Uberlândia,MG,2024-02-28,Indicação
+1425,Ana Souza,cliente1425@email.com,Santos,SP,2025-05-15,Orgânico
+1438,Karen Costa,cliente1438@email.com,Olinda,PE,2025-06-24,Google Ads
+692,Nicolas Souza,cliente692@email.com,Fortaleza,CE,2024-11-16,Google Ads
+348,Karen Almeida,cliente348@email.com,Caruaru,PE,2025-12-31,E-mail
+875,Tatiana Costa,cliente875@email.com,Uberlândia,MG,2025-10-08,Orgânico
+995,Vinícius Lima,cliente995@email.com,Brasília,DF,2024-01-04,E-mail
+861,Felipe Lima,cliente861@email.com,Uberlândia,MG,2025-07-05,Orgânico
+1208,João Costa,cliente1208@email.com,Recife,PE,2025-11-12,E-mail
+599,Tatiana Costa,cliente599@email.com,Santos,SP,2024-01-02,Google Ads
+1442,Karen Oliveira,cliente1442@email.com,Campinas,SP,2024-04-11,Orgânico
+915,Bruno Rocha,cliente915@email.com,Niterói,RJ,2024-04-11,E-mail
+1207,Elaine Lima,cliente1207@email.com,Olinda,PE,2024-01-03,E-mail
+1218,Ana Oliveira,cliente1218@email.com,Santos,SP,2024-05-27,Orgânico
+1471,Nicolas Silva,cliente1471@email.com,Caxias do Sul,RS,2024-01-03,E-mail
+460,Vinícius Santos,cliente460@email.com,Olinda,PE,2024-11-24,Orgânico
+684,Rafaela Rocha,cliente684@email.com,Porto Alegre,RS,2024-04-17,Orgânico
+145,Vinícius Rocha,cliente145@email.com,Olinda,PE,2024-11-10,E-mail
+1365,Gabriela Souza,cliente1365@email.com,Recife,PE,2024-01-15,Instagram
+1499,Bruno Almeida,cliente1499@email.com,São Paulo,SP,2025-04-10,Google Ads
+179,Felipe Oliveira,cliente179@email.com,Salvador,BA,2024-07-03,Indicação
+271,Vinícius Oliveira,cliente271@email.com,Santos,SP,2024-07-04,E-mail
+1143,Samuel Oliveira,cliente1143@email.com,Recife,PE,2024-02-23,Google Ads
+728,Felipe Ferreira,cliente728@email.com,Londrina,PR,2024-05-15,Google Ads
+611,Gabriela Santos,cliente611@email.com,Olinda,PE,2024-12-05,Indicação
+1142,Karen Rocha,cliente1142@email.com,Campinas,SP,2024-09-14,Google Ads
+1028,Rafaela Oliveira,cliente1028@email.com,Recife,PE,2025-05-09,
+1033,João Silva,cliente1033@email.com,Caruaru,PE,2025-11-05,Orgânico
+540,Bruno Santos,cliente540@email.com,Salvador,BA,2024-09-01,E-mail
+270,Vinícius Oliveira,cliente270@email.com,Caruaru,PE,2024-12-10,E-mail
+547,Isabela Souza,cliente547@email.com,Santos,SP,2024-06-10,Google Ads
+459,Olívia Pereira,cliente459@email.com,Campinas,SP,2024-12-03,Indicação
+653,Karen Lima,cliente653@email.com,Brasília,DF,2025-10-17,Orgânico
+1082,Ana Lima,cliente1082@email.com,Sobral,CE,2025-10-01,Google Ads
+1298,Lucas Souza,cliente1298@email.com,Belo Horizonte,MG,2025-12-18,E-mail
+114,Karen Silva,cliente114@email.com,Olinda,PE,2025-10-25,E-mail
+1008,Rafaela Souza,cliente1008@email.com,Feira de Santana,BA,2025-10-06,Indicação
+51,Isabela Santos,cliente51@email.com,Uberlândia,MG,2024-11-19,
+555,Vinícius Santos,cliente555@email.com,Campinas,SP,2024-11-07,Orgânico
+1373,Vinícius Almeida,cliente1373@email.com,Rio de Janeiro,RJ,2025-08-28,Google Ads
+116,Isabela Rocha,cliente116@email.com,Feira de Santana,BA,2025-10-28,E-mail
+867,Olívia Costa,cliente867@email.com,Salvador,BA,2025-06-17,Instagram
+75,Gabriela Lima,,São Paulo,SP,2025-08-13,E-mail
+759,Diego Ferreira,cliente759@email.com,São Paulo,SP,2025-02-02,Indicação
+1299,Isabela Lima,cliente1299@email.com,São Paulo,SP,2025-02-06,Instagram
+918,Olívia Silva,cliente918@email.com,Londrina,PR,2024-03-22,Indicação
+1100,Gabriela Rocha,cliente1100@email.com,Curitiba,PR,2025-11-03,Google Ads
+526,Nicolas Rocha,cliente526@email.com,Uberlândia,MG,2024-06-04,Instagram
+684,Rafaela Rocha,cliente684@email.com,Porto Alegre,RS,2024-04-17,Orgânico
+169,Marina Costa,cliente169@email.com,Caruaru,PE,2025-04-29,
+34,Bruno Santos,cliente34@email.com,São Paulo,SP,2024-03-13,Google Ads
+1193,Hugo Almeida,cliente1193@email.com,Olinda,PE,2025-09-24,Google Ads
+1407,João Costa,cliente1407@email.com,Belo Horizonte,MG,2024-09-04,Google Ads
+1252,Carla Ferreira,cliente1252@email.com,Uberlândia,MG,2024-04-08,E-mail
+57,Isabela Souza,cliente57@email.com,Curitiba,PR,2024-05-17,Indicação
+883,Hugo Ferreira,cliente883@email.com,Caruaru,PE,2025-10-02,Orgânico
+777,Samuel Souza,cliente777@email.com,FORTALEZA,CE,2025-05-13,Indicação
+1353,João Oliveira,cliente1353@email.com,Rio de Janeiro,RJ,2025-05-04,Orgânico
+40,Nicolas Oliveira,cliente40@email.com,Niterói,RJ,2024-05-23,E-mail
+1184,Felipe Ferreira,cliente1184@email.com,Londrina,PR,2025-09-25,Instagram
+473,Tatiana Santos,cliente473@email.com,Niterói,RJ,2025-12-05,Orgânico
+14,Samuel Santos,cliente14@email.com,Brasília,df,2025-10-17,Google Ads
+959,Diego Pereira,cliente959@email.com,Niterói,RJ,2025-12-27,Indicação
+1428,Olívia Almeida,cliente1428@email.com,Rio de Janeiro,RJ,2025-04-16,Orgânico
+567,Olívia Lima,cliente567@email.com,Niterói,RJ,2024-07-31,Orgânico
+162,Paulo Almeida,cliente162@email.com,Salvador,BA,2025-03-01,E-mail
+79,Nicolas Costa,cliente79@email.com,Rio de Janeiro,RJ,2024-07-15,Indicação
+895,Karen Oliveira,cliente895@email.com,Salvador,BA,2024-11-15,Indicação
+525,Felipe Almeida,cliente525@email.com,Olinda,PE,2025-10-27,Instagram
+564,Karen Pereira,cliente564@email.com,Caxias do Sul,RS,2025-02-06,Orgânico
+1441,Felipe Silva,cliente1441@email.com,Caruaru,PE,2024-11-29,Google Ads
+262,Samuel Costa,cliente262@email.com,Olinda,PE,2024-04-06,Orgânico
+421,Karen Santos,cliente421@email.com,Campinas,sp,2024-07-19,Indicação
+643,Diego Silva,cliente643@email.com,Rio de Janeiro,RJ,2025-10-12,Orgânico
+1220,Hugo Santos,cliente1220@email.com,Santos,SP,2025-05-30,Indicação
+289,Nicolas Oliveira,cliente289@email.com,Santos,SP,2025-08-07,Google Ads
+936,Marina Souza,cliente936@email.com,Recife,PE,2025-08-13,Orgânico
+366,Gabriela Ferreira,cliente366@email.com,Feira de Santana,ba,2024-08-07,Indicação
+1191,Tatiana Oliveira,,Niterói,RJ,2024-10-23,Orgânico
+1025,Nicolas Souza,cliente1025@email.com,Feira de Santana,BA,2024-10-05,Instagram
+655,Elaine Silva,cliente655@email.com,Feira de Santana,BA,2025-11-28,Orgânico
+325,Gabriela Ferreira,cliente325@email.com,Caxias do Sul,RS,2024-09-13,Instagram
+1189,Marina Almeida,cliente1189@email.com,São Paulo,SP,2024-01-26,E-mail
+1130,Elaine Costa,cliente1130@email.com,Recife,PE,2024-10-07,Orgânico
+1456,Olívia Lima,cliente1456@email.com,Brasília,DF,2025-12-25,Orgânico
+1374,Tatiana Pereira,cliente1374@email.com,Rio de Janeiro,RJ,2025-03-08,Orgânico
+625,Gabriela Santos,cliente625@email.com,SÃO PAULO,SP,2024-06-20,Google Ads
+1150,Karen Oliveira,cliente1150@email.com,Brasília,DF,2024-07-26,Indicação
+1326,Nicolas Oliveira,cliente1326@email.com,Campinas,SP,2025-06-27,Google Ads
+1118,Bruno Santos,cliente1118@email.com,Salvador,BA,2024-05-23,Indicação
+482,Nicolas Costa,cliente482@email.com,Belo Horizonte,MG,2024-07-09,Indicação
+937,Nicolas Souza,cliente937@email.com,São Paulo,SP,2025-03-20,Indicação
+612,Isabela Lima,cliente612@email.com,Feira de Santana,BA,2025-07-07,Instagram
+1308,Karen Lima,cliente1308@email.com,São Paulo,SP,2025-08-30,Google Ads
+1116,Marina Santos,cliente1116@email.com,Campinas,SP,2024-02-10,E-mail
+926,Lucas Costa,,Niterói,RJ,2024-11-28,Orgânico
+234,Elaine Oliveira,cliente234@email.com,Caruaru,PE,2024-02-23,Google Ads
+205,Gabriela Souza,cliente205@email.com,Olinda,PE,2024-10-09,Google Ads
+1493,Karen Lima,cliente1493@email.com,Niterói,RJ,2025-09-09,Google Ads
+1321,Bruno Pereira,cliente1321@email.com,Recife,PE,2024-03-01,E-mail
+1175,João Souza,cliente1175@email.com,Recife,PE,2024-07-02,Instagram
+1333,Samuel Almeida,cliente1333@email.com,Campinas,SP,2025-12-27,E-mail
+134,Paulo Souza,cliente134@email.com,BRASÍLIA,DF,2024-09-15,E-mail
+723,Vinícius Pereira,cliente723@email.com,Santos,SP,2025-09-06,E-mail
+1012,Diego Silva,cliente1012@email.com,Brasília,DF,2024-01-02,Google Ads
+39,Diego Santos,cliente39@email.com,Recife,PE,2024-12-13,Instagram
+1302,Nicolas Souza,cliente1302@email.com,Curitiba,PR,2024-12-06,Orgânico
+718,Karen Souza,cliente718@email.com,Campinas,SP,2024-07-14,Google Ads
+202,Vinícius Costa,cliente202@email.com,Uberlândia,MG,2025-05-16,Google Ads
+566,Olívia Pereira,cliente566@email.com,Olinda,PE,2025-04-05,Google Ads
+1445,Olívia Ferreira,cliente1445@email.com,Campinas,SP,2024-11-21,Google Ads
+1496,Gabriela Souza,cliente1496@email.com,Brasília,DF,2025-10-17,Instagram
+222,Paulo Souza,cliente222@email.com,Curitiba,PR,2025-12-04,Google Ads
+1303,Nicolas Rocha,,Niterói,RJ,2024-12-26,E-mail
+930,Ana Lima,cliente930@email.com,Recife,PE,2024-11-05,Instagram
+1212,Isabela Oliveira,cliente1212@email.com,Salvador,BA,2024-01-18,Instagram
+1052,Tatiana Costa,cliente1052@email.com,Campinas,SP,2025-12-11,Indicação
+1460,Carla Ferreira,,Recife,PE,2025-10-26,E-mail
+38,Olívia Silva,cliente38@email.com,Santos,SP,2025-02-24,Google Ads
+243,Nicolas Rocha,cliente243@email.com,CAXIAS DO SUL,RS,2025-08-12,E-mail
+46,Tatiana Ferreira,cliente46@email.com,São Paulo,SP,2024-02-29,Orgânico
+574,Ana Souza,,São Paulo,SP,2024-03-17,E-mail
+1053,Hugo Oliveira,cliente1053@email.com,Fortaleza,CE,2025-07-11,Indicação
+1044,Olívia Almeida,cliente1044@email.com,Salvador,BA,2025-12-28,Instagram
+361,Hugo Lima,cliente361@email.com,Uberlândia,mg,2024-07-15,Instagram
+722,Tatiana Oliveira,cliente722@email.com,Fortaleza,CE,2024-06-30,Google Ads
+503,Lucas Rocha,cliente503@email.com,Sobral,CE,2025-08-25,Instagram
+1125,Olívia Rocha,cliente1125@email.com,Curitiba,PR,2024-04-09,Indicação
+594,Diego Ferreira,cliente594@email.com,Uberlândia,MG,2024-05-25,Google Ads
+1332,Diego Almeida,cliente1332@email.com,Salvador,BA,2025-03-22,E-mail
+1093,Bruno Souza,cliente1093@email.com,Feira de Santana,BA,2025-06-26,E-mail
+1448,Carla Ferreira,cliente1448@email.com,Belo Horizonte,MG,2025-04-01,Instagram
+308,Lucas Costa,cliente308@email.com,Fortaleza,CE,2025-01-10,Indicação
+845,Tatiana Oliveira,cliente845@email.com,São Paulo,SP,2024-08-15,Indicação
+1,Isabela Santos,cliente1@email.com,Belo Horizonte,MG,2024-01-26,Instagram
+712,Hugo Almeida,cliente712@email.com,Campinas,SP,2024-02-25,Indicação
+1479,Bruno Pereira,cliente1479@email.com,Rio de Janeiro,RJ,2024-12-14,Google Ads
+373,Bruno Costa,cliente373@email.com,Caxias do Sul,RS,2024-06-29,Instagram
+739,Carla Oliveira,cliente739@email.com,Rio de Janeiro,RJ,2025-11-30,Indicação
+519,João Santos,cliente519@email.com,Olinda,PE,2025-10-02,Google Ads
+1267,Paulo Rocha,cliente1267@email.com,São Paulo,SP,2025-12-13,Orgânico
+87,Ana Souza,cliente87@email.com,Campinas,SP,2025-11-02,Instagram
+686,Gabriela Pereira,cliente686@email.com,Sobral,CE,2025-06-19,Orgânico
+1465,Hugo Almeida,cliente1465@email.com,Uberlândia,MG,2024-08-14,Google Ads
+732,Isabela Oliveira,cliente732@email.com,Brasília,DF,2025-11-30,Orgânico
+166,Samuel Almeida,cliente166@email.com,Caxias do Sul,RS,2025-04-02,Orgânico
+212,Diego Souza,cliente212@email.com,Feira de Santana,BA,2025-06-22,E-mail
+1363,Vinícius Almeida,cliente1363@email.com,Niterói,RJ,2025-02-18,Indicação
+1086,Paulo Oliveira,cliente1086@email.com,Fortaleza,CE,2024-08-29,Orgânico
+1342,Elaine Santos,cliente1342@email.com,CURITIBA,PR,2025-08-05,Orgânico
+1391,Diego Oliveira,cliente1391@email.com,Sobral,CE,2025-05-25,Orgânico
+458,Ana Costa,cliente458@email.com,Olinda,PE,2024-11-07,Indicação
+6,Diego Souza,cliente6@email.com,Campinas,SP,2024-12-10,Google Ads
+185,Tatiana Lima,cliente185@email.com,Santos,SP,2025-01-02,Orgânico
+580,Isabela Costa,cliente580@email.com,Rio de Janeiro,RJ,2024-03-30,E-mail
+685,Paulo Santos,cliente685@email.com,Caruaru,PE,2024-04-18,Instagram
+213,Tatiana Souza,cliente213@email.com,Sobral,CE,2025-06-09,Indicação
+1364,Lucas Costa,cliente1364@email.com,Sobral,CE,2025-09-23,Google Ads
+874,Olívia Oliveira,cliente874@email.com,Curitiba,PR,2025-07-15,Indicação
+532,Vinícius Souza,cliente532@email.com,Santos,SP,2025-10-15,Google Ads
+1281,Karen Souza,cliente1281@email.com,Porto Alegre,RS,2025-02-24,E-mail
+725,Elaine Oliveira,cliente725@email.com,Brasília,DF,2025-04-08,Indicação
+543,Rafaela Lima,cliente543@email.com,Curitiba,PR,2025-06-19,Orgânico
+550,Nicolas Santos,,Niterói,RJ,2025-11-02,Instagram
+646,Gabriela Santos,cliente646@email.com,Caruaru,PE,2025-08-08,Instagram
+21,Vinícius Souza,cliente21@email.com,Sobral,ce,2025-03-08,E-mail
+1371,Nicolas Costa,cliente1371@email.com,Campinas,SP,2024-04-15,Indicação
+190,Carla Lima,cliente190@email.com,Uberlândia,MG,2024-05-14,E-mail
+551,Isabela Souza,cliente551@email.com,Santos,SP,2024-11-23,Orgânico
+911,  Samuel Costa ,cliente911@email.com,Salvador,BA,2025-11-05,Indicação
+825,Rafaela Santos,cliente825@email.com,Fortaleza,CE,2025-06-06,Google Ads
+102,Ana Souza,cliente102@email.com,Uberlândia,MG,2025-11-09,Instagram
+129,Rafaela Rocha,cliente129@email.com,Campinas,SP,2025-08-26,Google Ads
+1494,Elaine Silva,cliente1494@email.com,Rio de Janeiro,RJ,2025-11-04,Indicação
+1346,Elaine Souza,cliente1346@email.com,Uberlândia,MG,2025-10-31,E-mail
+496,Paulo Oliveira,cliente496@email.com,Salvador,BA,2025-03-30,Indicação
+1017,Ana Oliveira,cliente1017@email.com,Salvador,BA,2025-09-22,Orgânico
+186,Marina Lima,cliente186@email.com,Recife,PE,2025-11-05,Indicação
+97,Ana Rocha,cliente97@email.com,Campinas,SP,2025-08-21,E-mail
+706,Isabela Silva,cliente706@email.com,Santos,SP,2024-12-04,Instagram
+492,Felipe Ferreira,cliente492@email.com,BELO HORIZONTE,MG,2025-12-11,E-mail
+24,Ana Lima,cliente24@email.com,Rio de Janeiro,RJ,2025-04-09,Indicação
+1314,Paulo Souza,cliente1314@email.com,Rio de Janeiro,RJ,2025-04-09,Instagram
+522,  Elaine Almeida ,cliente522@email.com,Fortaleza,CE,2025-03-08,Instagram
+602,Felipe Souza,cliente602@email.com,Santos,SP,2024-11-23,Orgânico
+125,Rafaela Pereira,cliente125@email.com,Campinas,SP,2025-07-20,Indicação
+85,  Vinícius Souza ,cliente85@email.com,Campinas,SP,2025-05-01,E-mail
+1023,Marina Ferreira,cliente1023@email.com,Porto Alegre,RS,2024-12-13,Indicação
+1447,Diego Santos,cliente1447@email.com,Brasília,DF,2025-11-22,Orgânico
+12,Carla Rocha,cliente12@email.com,Santos,SP,2024-09-30,Instagram
+1015,Carla Lima,cliente1015@email.com,Feira de Santana,BA,2024-09-17,Indicação
+1134,João Costa,cliente1134@email.com,Feira de Santana,BA,2025-08-30,Instagram
+1162,Ana Almeida,cliente1162@email.com,Caxias do Sul,RS,2025-08-20,Instagram
+994,João Oliveira,cliente994@email.com,São Paulo,SP,2025-04-01,Instagram
+475,Diego Lima,cliente475@email.com,Brasília,DF,2025-05-09,Google Ads
+803,Hugo Costa,cliente803@email.com,Uberlândia,MG,2024-03-11,Instagram
+887,Ana Oliveira,cliente887@email.com,São Paulo,SP,2025-07-01,Orgânico
+177,Karen Silva,cliente177@email.com,Londrina,PR,2024-02-17,Orgânico
+1000,Bruno Oliveira,cliente1000@email.com,Recife,PE,2024-12-23,Indicação
+501,Hugo Lima,,Recife,PE,2025-10-31,E-mail
+407,Lucas Costa,cliente407@email.com,Niterói,RJ,2024-02-18,E-mail
+783,Lucas Ferreira,cliente783@email.com,Rio de Janeiro,RJ,2025-02-10,Instagram
+122,Paulo Ferreira,cliente122@email.com,São Paulo,SP,2025-02-20,E-mail
+35,Rafaela Santos,cliente35@email.com,Caxias do Sul,RS,2024-03-13,E-mail
+251,Paulo Almeida,cliente251@email.com,Santos,SP,2025-10-05,Indicação
+1158,Marina Almeida,cliente1158@email.com,Caruaru,PE,2025-06-27,Google Ads
+153,Paulo Lima,cliente153@email.com,Santos,SP,2025-12-11,E-mail
+1323,João Costa,cliente1323@email.com,Niterói,RJ,2025-01-25,Instagram
+1159,Carla Ferreira,cliente1159@email.com,Rio de Janeiro,RJ,2024-09-03,E-mail
+347,Marina Ferreira,cliente347@email.com,São Paulo,SP,2025-06-05,Google Ads
+1051,Felipe Almeida,cliente1051@email.com,Uberlândia,MG,2025-07-15,
+121,Samuel Silva,cliente121@email.com,Salvador,BA,2024-10-09,Google Ads
+667,Felipe Pereira,cliente667@email.com,Rio de Janeiro,RJ,2025-10-08,Google Ads
+666,Elaine Pereira,cliente666@email.com,Brasília,DF,2025-04-13,Google Ads
+486,Rafaela Pereira,cliente486@email.com,Feira de Santana,BA,2025-05-16,Indicação
+863,Elaine Oliveira,cliente863@email.com,Santos,SP,2025-10-08,Orgânico
+99,Vinícius Santos,cliente99@email.com,Feira de Santana,BA,2025-07-13,Instagram
+1173,Samuel Lima,cliente1173@email.com,Niterói,RJ,2025-06-28,Indicação
+1048,Lucas Rocha,cliente1048@email.com,Porto Alegre,RS,2024-10-16,Indicação
+1054,Tatiana Rocha,cliente1054@email.com,Caxias do Sul,RS,2024-04-27,Orgânico
+673,Marina Ferreira,cliente673@email.com,Santos,SP,2024-04-15,Orgânico
+152,Karen Pereira,cliente152@email.com,Rio de Janeiro,rj,2025-02-22,Instagram
+105,Paulo Silva,cliente105@email.com,Santos,SP,2024-03-24,Indicação
+750,João Silva,cliente750@email.com,Santos,SP,2025-07-07,Orgânico
+371,Karen Lima,cliente371@email.com,Fortaleza,CE,2024-10-21,Google Ads
+700,Bruno Souza,cliente700@email.com,Caxias do Sul,RS,2025-03-27,Orgânico
+201,Samuel Costa,cliente201@email.com,Salvador,BA,2025-12-14,E-mail
+224,Samuel Pereira,cliente224@email.com,Belo Horizonte,MG,2025-07-29,E-mail
+1377,Paulo Pereira,cliente1377@email.com,Campinas,SP,2024-07-15,Instagram
+753,Samuel Silva,cliente753@email.com,Santos,SP,2025-07-04,
+1151,Diego Almeida,cliente1151@email.com,Olinda,PE,2024-05-19,E-mail
+495,Paulo Costa,cliente495@email.com,Brasília,DF,2025-06-01,E-mail
+453,Samuel Santos,cliente453@email.com,Santos,SP,2024-03-27,Indicação
+1385,Diego Ferreira,cliente1385@email.com,Recife,PE,2024-08-20,E-mail
+592,Karen Rocha,cliente592@email.com,Rio de Janeiro,RJ,2024-01-01,Instagram
+168,Tatiana Costa,cliente168@email.com,Brasília,DF,2024-09-01,E-mail
+469,Vinícius Souza,cliente469@email.com,Salvador,BA,2025-07-03,Instagram
+312,Diego Lima,cliente312@email.com,Campinas,SP,2025-07-29,E-mail
+56,Rafaela Silva,cliente56@email.com,Uberlândia,MG,2025-10-31,Google Ads
+595,Marina Rocha,cliente595@email.com,São Paulo,SP,2025-11-09,Orgânico
+332,Olívia Costa,cliente332@email.com,Feira de Santana,BA,2024-06-10,E-mail
+135,Bruno Oliveira,cliente135@email.com,Rio de Janeiro,RJ,2025-08-13,Indicação
+892,Marina Silva,cliente892@email.com,São Paulo,SP,2024-09-13,Instagram
+404,Tatiana Pereira,cliente404@email.com,Brasília,DF,2024-08-27,Instagram
+747,Rafaela Almeida,cliente747@email.com,Santos,SP,2025-09-25,Google Ads
+804,Rafaela Ferreira,cliente804@email.com,Caruaru,PE,2024-07-26,E-mail
+650,Olívia Lima,cliente650@email.com,Niterói,RJ,2024-08-11,
+1122,Samuel Oliveira,cliente1122@email.com,Rio de Janeiro,RJ,2025-11-25,Google Ads
+541,Vinícius Silva,cliente541@email.com,Olinda,PE,2025-09-18,Instagram
+74,Nicolas Rocha,cliente74@email.com,Santos,SP,2024-11-17,Google Ads
+833,Isabela Almeida,cliente833@email.com,Sobral,CE,2025-08-11,Indicação
+1146,Hugo Costa,cliente1146@email.com,São Paulo,SP,2024-04-10,E-mail
+1096,Gabriela Ferreira,cliente1096@email.com,Feira de Santana,BA,2025-08-25,Instagram
+881,Nicolas Costa,cliente881@email.com,São Paulo,SP,2025-07-28,Instagram
+433,Hugo Lima,cliente433@email.com,Belo Horizonte,MG,2025-12-14,Google Ads
+1476,Gabriela Oliveira,cliente1476@email.com,Londrina,PR,2024-09-12,Orgânico
+664,Diego Costa,cliente664@email.com,Caxias do Sul,RS,2025-05-27,E-mail
+1408,Rafaela Pereira,cliente1408@email.com,Porto Alegre,RS,2024-09-22,Google Ads
+1268,Karen Rocha,cliente1268@email.com,São Paulo,SP,2025-02-03,E-mail
+1098,Olívia Pereira,cliente1098@email.com,Recife,PE,2024-04-16,Orgânico
+307,Bruno Oliveira,cliente307@email.com,Salvador,BA,2025-03-24,Instagram
+402,Bruno Santos,cliente402@email.com,Belo Horizonte,mg,2025-12-21,E-mail
+500,Olívia Ferreira,cliente500@email.com,Fortaleza,CE,2024-02-12,E-mail
+184,Marina Almeida,cliente184@email.com,Porto Alegre,RS,2024-07-22,Instagram
+54,Elaine Pereira,cliente54@email.com,São Paulo,SP,2024-09-28,Instagram
+231,Marina Souza,cliente231@email.com,Porto Alegre,RS,2025-08-02,Google Ads
+1316,Vinícius Santos,cliente1316@email.com,Niterói,RJ,2024-07-30,Instagram
+1317,Elaine Silva,cliente1317@email.com,Campinas,SP,2025-02-22,Orgânico
+342,Nicolas Oliveira,cliente342@email.com,Olinda,PE,2024-04-20,Orgânico
+934,Gabriela Souza,cliente934@email.com,Uberlândia,MG,2025-08-05,E-mail
+1475,Ana Santos,cliente1475@email.com,Caruaru,PE,2025-08-08,E-mail
+299,Olívia Costa,cliente299@email.com,Niterói,RJ,2025-02-13,Instagram
+1397,Elaine Silva,cliente1397@email.com,Curitiba,PR,2025-03-29,Google Ads
+1250,Carla Almeida,cliente1250@email.com,Caruaru,PE,2024-02-24,Google Ads
+647,Nicolas Ferreira,cliente647@email.com,Salvador,BA,2024-10-02,Google Ads
+1129,Bruno Rocha,cliente1129@email.com,Porto Alegre,RS,2024-08-06,Orgânico
+588,Karen Pereira,cliente588@email.com,Santos,SP,2025-08-29,Google Ads
+281,Hugo Silva,cliente281@email.com,Brasília,DF,2025-01-18,Google Ads
+761,João Rocha,cliente761@email.com,Recife,PE,2025-12-03,Orgânico
+942,Carla Almeida,cliente942@email.com,Santos,SP,2024-12-10,Google Ads
+1066,Samuel Costa,cliente1066@email.com,Niterói,RJ,2024-07-11,E-mail
+1347,Vinícius Oliveira,cliente1347@email.com,Sobral,CE,2024-11-13,Google Ads
+1451,Isabela Rocha,cliente1451@email.com,Olinda,PE,2025-05-08,E-mail
+36,Tatiana Rocha,cliente36@email.com,Campinas,SP,2024-05-15,Instagram
+760,Bruno Souza,cliente760@email.com,Olinda,PE,2025-08-22,Indicação
+1304,Felipe Almeida,cliente1304@email.com,Salvador,BA,2024-02-23,Google Ads
+291,Marina Pereira,cliente291@email.com,Caxias do Sul,RS,2024-02-14,Google Ads
+749,Bruno Pereira,cliente749@email.com,Londrina,PR,2024-09-06,Google Ads
+151,Tatiana Costa,cliente151@email.com,Londrina,PR,2024-07-04,Google Ads
+1492,João Rocha,cliente1492@email.com,Curitiba,PR,2025-01-01,Instagram
+1439,Samuel Oliveira,cliente1439@email.com,Olinda,PE,2024-04-11,Instagram
+225,Nicolas Silva,cliente225@email.com,Campinas,SP,2025-11-12,Indicação
+304,Lucas Rocha,cliente304@email.com,Campinas,SP,2024-02-13,Orgânico
+149,Tatiana Silva,cliente149@email.com,Brasília,DF,2025-08-12,Indicação
+1329,Karen Almeida,cliente1329@email.com,São Paulo,SP,2024-06-17,Indicação
+472,  Hugo Ferreira ,cliente472@email.com,Caruaru,PE,2024-09-21,Indicação
+552,Bruno Oliveira,cliente552@email.com,Recife,PE,2025-11-20,Indicação
+901,Bruno Silva,cliente901@email.com,Feira de Santana,BA,2024-12-12,Instagram
+1109,Olívia Silva,cliente1109@email.com,Uberlândia,MG,2024-09-13,Instagram
+110,Tatiana Silva,,Brasília,DF,2024-04-20,Indicação
+228,Hugo Costa,cliente228@email.com,FORTALEZA,CE,2025-08-10,Indicação
+1387,Rafaela Rocha,cliente1387@email.com,Porto Alegre,RS,2025-12-07,Google Ads
+1058,Ana Oliveira,cliente1058@email.com,Curitiba,PR,2025-10-13,E-mail
+680,Bruno Souza,cliente680@email.com,Uberlândia,MG,2024-01-21,E-mail
+1271,Paulo Souza,cliente1271@email.com,Brasília,DF,2024-07-25,Orgânico
+1234,Samuel Silva,cliente1234@email.com,Brasília,DF,2024-06-24,Instagram
+1459,Samuel Almeida,cliente1459@email.com,Feira de Santana,BA,2025-02-27,Indicação
+374,Bruno Silva,cliente374@email.com,Londrina,PR,2024-10-23,Indicação
+328,Carla Silva,cliente328@email.com,Caruaru,PE,2024-01-30,Indicação
+1356,Tatiana Lima,cliente1356@email.com,Campinas,SP,2025-04-20,Orgânico
+1046,Karen Pereira,cliente1046@email.com,Feira de Santana,BA,2025-11-12,E-mail
+1500,Hugo Almeida,cliente1500@email.com,Belo Horizonte,MG,2025-12-10,Instagram
+549,Marina Oliveira,cliente549@email.com,Recife,PE,2025-01-07,Google Ads
+605,  Nicolas Almeida ,cliente605@email.com,Feira de Santana,BA,2024-06-19,Orgânico
+64,Nicolas Oliveira,cliente64@email.com,Belo Horizonte,MG,2024-05-31,Orgânico
+319,Carla Lima,cliente319@email.com,Uberlândia,MG,2024-03-29,E-mail
+963,Rafaela Lima,cliente963@email.com,Belo Horizonte,MG,2024-08-29,Orgânico
+1470,Gabriela Silva,cliente1470@email.com,Feira de Santana,BA,2024-10-07,Indicação
+390,Paulo Souza,cliente390@email.com,Feira de Santana,BA,2025-08-20,Google Ads
+321,Olívia Ferreira,cliente321@email.com,Uberlândia,MG,2025-04-05,Instagram
+1386,Lucas Silva,cliente1386@email.com,Santos,SP,2024-12-14,Orgânico
+377,Isabela Oliveira,cliente377@email.com,São Paulo,SP,2025-04-14,Orgânico
+981,Karen Costa,cliente981@email.com,Salvador,BA,2025-01-24,Indicação
+799,Marina Rocha,cliente799@email.com,Curitiba,PR,2025-06-13,Orgânico
+846,Samuel Silva,cliente846@email.com,Sobral,CE,2025-05-04,E-mail
+607,João Silva,cliente607@email.com,Niterói,RJ,2024-02-04,Orgânico
+349,Elaine Pereira,cliente349@email.com,Santos,SP,2025-06-11,Orgânico
+880,Hugo Silva,cliente880@email.com,SOBRAL,CE,2025-09-03,Instagram
+115,Olívia Oliveira,cliente115@email.com,Olinda,PE,2025-01-05,Instagram
+794,Vinícius Souza,cliente794@email.com,Santos,SP,2025-01-05,Instagram
+298,Karen Lima,cliente298@email.com,São Paulo,SP,2024-02-18,Orgânico
+1055,Felipe Lima,cliente1055@email.com,Niterói,RJ,2025-03-31,Google Ads
+928,Lucas Almeida,cliente928@email.com,Londrina,PR,2024-09-17,E-mail
+229,Isabela Silva,cliente229@email.com,Curitiba,PR,2025-12-11,Orgânico
+239,Isabela Lima,cliente239@email.com,Londrina,PR,2024-05-20,Google Ads
+1197,Vinícius Ferreira,,Rio de Janeiro,RJ,2025-09-09,Orgânico
+576,Nicolas Costa,cliente576@email.com,Olinda,PE,2025-08-10,Google Ads
+658,Lucas Ferreira,cliente658@email.com,Uberlândia,MG,2025-05-02,Instagram
+1225,Elaine Santos,cliente1225@email.com,Campinas,SP,2025-12-11,Instagram
+675,Nicolas Oliveira,cliente675@email.com,Uberlândia,MG,2024-12-11,E-mail
+1200,Nicolas Almeida,cliente1200@email.com,Campinas,sp,2025-03-30,Instagram
+735,João Silva,cliente735@email.com,Niterói,RJ,2025-12-13,E-mail
+914,Felipe Silva,cliente914@email.com,Recife,PE,2024-05-12,Google Ads
+1119,Carla Ferreira,cliente1119@email.com,Santos,SP,2025-02-02,Orgânico
+1020,Bruno Ferreira,cliente1020@email.com,Sobral,CE,2025-02-27,Indicação
+67,Nicolas Silva,cliente67@email.com,Porto Alegre,RS,2024-06-30,Orgânico
+616,Diego Lima,cliente616@email.com,Brasília,DF,2025-04-29,E-mail
+1461,Marina Rocha,cliente1461@email.com,Feira de Santana,BA,2024-12-27,E-mail
+230,Karen Pereira,cliente230@email.com,Salvador,BA,2024-11-12,Instagram
+341,Vinícius Almeida,cliente341@email.com,Olinda,PE,2025-05-21,Indicação
+1042,Karen Santos,,Belo Horizonte,MG,2024-11-15,E-mail
+93,João Santos,cliente93@email.com,Niterói,RJ,2025-12-31,Orgânico
+964,Samuel Lima,,Porto Alegre,RS,2024-01-31,Instagram
+855,Rafaela Ferreira,cliente855@email.com,Niterói,RJ,2025-10-07,E-mail
+830,Olívia Costa,cliente830@email.com,Santos,SP,2024-07-18,Google Ads
+548,Ana Silva,cliente548@email.com,São Paulo,SP,2025-06-05,Instagram
+1288,Nicolas Pereira,cliente1288@email.com,Belo Horizonte,MG,2024-03-06,E-mail
+764,João Pereira,cliente764@email.com,Brasília,DF,2024-05-27,Indicação
+127,Karen Souza,cliente127@email.com,Santos,SP,2024-07-16,Indicação
+1179,Ana Santos,cliente1179@email.com,Santos,SP,2024-03-05,Orgânico
+812,Rafaela Silva,cliente812@email.com,Uberlândia,MG,2024-04-30,Instagram
+868,Hugo Lima,cliente868@email.com,Porto Alegre,RS,2024-05-08,Instagram
+264,Lucas Lima,cliente264@email.com,Uberlândia,MG,2024-05-24,Instagram
+1097,Ana Souza,,São Paulo,SP,2024-01-11,E-mail
+226,Tatiana Ferreira,cliente226@email.com,São Paulo,SP,2024-04-16,Instagram
+1283,Diego Oliveira,cliente1283@email.com,São Paulo,SP,2024-09-01,Google Ads
+393,Carla Silva,cliente393@email.com,FEIRA DE SANTANA,BA,2025-08-15,Orgânico
+335,Hugo Almeida,cliente335@email.com,Belo Horizonte,MG,2024-11-22,Orgânico
+165,Tatiana Rocha,cliente165@email.com,Santos,SP,2024-11-01,E-mail
+1375,Paulo Souza,cliente1375@email.com,Caxias do Sul,RS,2025-03-03,Indicação
+733,Bruno Pereira,cliente733@email.com,Campinas,sp,2025-07-08,Google Ads
+446,Marina Souza,cliente446@email.com,Feira de Santana,BA,2025-11-07,Instagram
+109,Felipe Rocha,cliente109@email.com,Salvador,BA,2025-01-12,Instagram
+984,Marina Lima,cliente984@email.com,Campinas,SP,2025-03-26,E-mail
+1219,Nicolas Pereira,cliente1219@email.com,São Paulo,SP,2025-05-11,Google Ads
+676,Felipe Costa,cliente676@email.com,São Paulo,SP,2024-07-11,Instagram
+772,Carla Santos,cliente772@email.com,Olinda,PE,2025-09-26,E-mail
+1291,Karen Pereira,cliente1291@email.com,Santos,SP,2024-05-05,E-mail
+1072,Rafaela Lima,cliente1072@email.com,Niterói,RJ,2024-08-30,Indicação
+250,Vinícius Oliveira,cliente250@email.com,Santos,SP,2024-06-26,Google Ads
+247,Hugo Pereira,cliente247@email.com,Porto Alegre,RS,2024-12-13,Google Ads
+554,Olívia Silva,cliente554@email.com,Campinas,SP,2025-07-20,Instagram
+1141,Bruno Silva,cliente1141@email.com,Niterói,RJ,2024-06-12,Orgânico
+494,Paulo Oliveira,cliente494@email.com,Porto Alegre,RS,2024-01-10,E-mail
+1115,Carla Almeida,cliente1115@email.com,Caxias do Sul,RS,2024-12-14,Instagram
+457,Vinícius Rocha,cliente457@email.com,Salvador,BA,2025-05-22,E-mail
+966,Vinícius Santos,cliente966@email.com,Niterói,RJ,2025-11-25,Instagram
+1487,Ana Almeida,cliente1487@email.com,Uberlândia,MG,2025-11-22,Indicação
+562,Elaine Costa,cliente562@email.com,Belo Horizonte,MG,2025-06-01,Indicação
+690,Hugo Almeida,cliente690@email.com,Londrina,PR,2025-10-21,Orgânico
+309,Lucas Pereira,cliente309@email.com,Campinas,SP,2025-04-05,Google Ads
+1199,João Almeida,cliente1199@email.com,Santos,SP,2024-12-25,Google Ads
+1137,Carla Lima,cliente1137@email.com,Feira de Santana,ba,2025-09-18,E-mail
+1433,Tatiana Ferreira,cliente1433@email.com,Rio de Janeiro,RJ,2024-02-24,E-mail
+1240,Vinícius Lima,cliente1240@email.com,Santos,SP,2025-04-12,E-mail
+517,Elaine Lima,cliente517@email.com,São Paulo,SP,2025-12-06,Orgânico
+1264,João Rocha,cliente1264@email.com,São Paulo,SP,2025-10-25,Google Ads
+586,Hugo Lima,cliente586@email.com,Caruaru,PE,2025-11-03,Google Ads
+1338,Ana Lima,cliente1338@email.com,Salvador,BA,2024-12-02,E-mail
+976,Paulo Pereira,cliente976@email.com,Recife,PE,2025-09-11,E-mail
+730,Ana Ferreira,cliente730@email.com,São Paulo,SP,2025-03-08,Google Ads
+200,Elaine Costa,cliente200@email.com,Campinas,SP,2025-07-04,Orgânico
+821,Carla Souza,cliente821@email.com,Londrina,PR,2025-03-21,Instagram
+916,Tatiana Lima,cliente916@email.com,Rio de Janeiro,RJ,2025-12-19,Orgânico
+1286,Samuel Oliveira,cliente1286@email.com,Caruaru,PE,2024-10-11,Google Ads
+1013,Vinícius Costa,cliente1013@email.com,Feira de Santana,BA,2024-07-31,Google Ads
+860,Vinícius Santos,cliente860@email.com,Santos,SP,2025-11-26,Indicação
+848,Gabriela Costa,cliente848@email.com,Salvador,BA,2024-01-13,Orgânico
+1313,Tatiana Souza,cliente1313@email.com,Curitiba,PR,2024-06-23,Indicação
+1153,Vinícius Oliveira,cliente1153@email.com,Fortaleza,CE,2025-10-15,Google Ads
+439,Ana Santos,cliente439@email.com,Curitiba,PR,2024-11-18,E-mail
+357,Nicolas Santos,cliente357@email.com,Campinas,sp,2024-06-04,Indicação
+84,Gabriela Oliveira,cliente84@email.com,Salvador,BA,2024-08-18,Google Ads
+814,Isabela Lima,cliente814@email.com,Niterói,RJ,2025-08-22,Indicação
+628,Rafaela Almeida,cliente628@email.com,Rio de Janeiro,RJ,2024-10-09,Indicação
+757,Samuel Souza,cliente757@email.com,Santos,SP,2024-09-14,Instagram
+1242,Lucas Oliveira,cliente1242@email.com,Porto Alegre,RS,2025-05-02,E-mail
+905,João Ferreira,cliente905@email.com,Feira de Santana,BA,2025-07-26,
+622,Samuel Almeida,cliente622@email.com,Fortaleza,CE,2025-03-04,E-mail
+240,Felipe Oliveira,cliente240@email.com,Olinda,PE,2025-03-16,Indicação
+455,Carla Oliveira,cliente455@email.com,Campinas,SP,2024-05-29,Orgânico
+695,Olívia Lima,cliente695@email.com,Olinda,PE,2025-02-13,E-mail
+334,Marina Oliveira,cliente334@email.com,Feira de Santana,BA,2024-12-19,Indicação
+754,Gabriela Costa,cliente754@email.com,São Paulo,SP,2025-10-06,Instagram
+1454,Elaine Ferreira,cliente1454@email.com,Campinas,SP,2024-05-05,E-mail
+47,Paulo Ferreira,cliente47@email.com,Caruaru,PE,2025-08-21,Instagram
+369,Diego Oliveira,cliente369@email.com,São Paulo,SP,2025-04-28,Indicação
+649,Isabela Costa,cliente649@email.com,Campinas,SP,2024-11-08,Orgânico
+738,Vinícius Santos,cliente738@email.com,Fortaleza,ce,2025-07-13,Orgânico
+330,Samuel Lima,cliente330@email.com,Niterói,RJ,2025-10-04,E-mail
+654,Hugo Silva,cliente654@email.com,Santos,SP,2025-06-13,E-mail
+1457,Vinícius Pereira,cliente1457@email.com,SÃO PAULO,SP,2025-04-15,Instagram
+193,Carla Oliveira,cliente193@email.com,Fortaleza,CE,2025-04-24,E-mail
+1443,Bruno Santos,cliente1443@email.com,São Paulo,SP,2024-05-03,Indicação
+424,Paulo Oliveira,cliente424@email.com,Santos,SP,2025-07-13,Google Ads
+528,Karen Oliveira,cliente528@email.com,São Paulo,SP,2025-03-15,Orgânico
+487,Lucas Pereira,cliente487@email.com,Campinas,SP,2024-04-26,Indicação
+996,Samuel Silva,cliente996@email.com,Niterói,RJ,2025-05-25,Instagram
+703,Hugo Almeida,cliente703@email.com,Olinda,PE,2025-11-08,E-mail
+634,Paulo Lima,cliente634@email.com,Feira de Santana,BA,2024-02-20,Google Ads
+463,Gabriela Rocha,cliente463@email.com,Santos,SP,2025-07-31,Instagram
+378,Gabriela Oliveira,cliente378@email.com,Sobral,ce,2025-08-04,E-mail
+1049,Karen Ferreira,cliente1049@email.com,Caruaru,PE,2024-04-19,Google Ads
+835,Diego Lima,cliente835@email.com,Porto Alegre,RS,2025-05-08,E-mail
+1087,Vinícius Oliveira,cliente1087@email.com,Brasília,DF,2024-05-28,E-mail
+717,Gabriela Santos,cliente717@email.com,Recife,PE,2025-09-17,E-mail
+287,Paulo Rocha,cliente287@email.com,Rio de Janeiro,RJ,2024-04-23,Indicação
+544,Diego Silva,cliente544@email.com,Olinda,PE,2024-10-02,
+126,Olívia Lima,cliente126@email.com,Campinas,SP,2025-12-20,Orgânico
+617,Isabela Souza,cliente617@email.com,Niterói,RJ,2025-11-07,Instagram
+1063,  Ana Ferreira ,,Londrina,PR,2024-02-24,Google Ads
+1409,Olívia Lima,cliente1409@email.com,Fortaleza,CE,2024-05-07,E-mail
+743,Vinícius Lima,cliente743@email.com,Olinda,PE,2025-10-02,Indicação
+412,Bruno Lima,cliente412@email.com,Olinda,PE,2024-07-14,Indicação
+969,Rafaela Oliveira,cliente969@email.com,Campinas,SP,2025-12-23,Instagram
+468,Nicolas Ferreira,cliente468@email.com,Rio de Janeiro,RJ,2025-12-09,Orgânico
+4,Samuel Costa,cliente4@email.com,Belo Horizonte,MG,2025-10-27,E-mail
+103,Bruno Lima,cliente103@email.com,Caxias do Sul,RS,2024-07-05,Orgânico
+826,Ana Oliveira,cliente826@email.com,São Paulo,SP,2025-11-01,Orgânico
+339,Ana Souza,cliente339@email.com,Caxias do Sul,RS,2025-05-24,Indicação
+1263,Nicolas Pereira,cliente1263@email.com,Rio de Janeiro,RJ,2024-12-31,Instagram
+59,Isabela Ferreira,cliente59@email.com,Campinas,SP,2025-10-11,Orgânico
+1464,Lucas Santos,cliente1464@email.com,Salvador,BA,2025-12-27,Indicação
+388,Bruno Ferreira,,Curitiba,PR,2024-04-24,Indicação
+409,João Oliveira,cliente409@email.com,Campinas,SP,2024-08-18,Google Ads
+896,Paulo Lima,cliente896@email.com,Rio de Janeiro,RJ,2024-09-16,Orgânico
+370,Nicolas Almeida,cliente370@email.com,Brasília,DF,2024-06-10,Instagram
+246,Marina Ferreira,cliente246@email.com,São Paulo,SP,2025-08-26,E-mail
+837,Isabela Santos,cliente837@email.com,Niterói,RJ,2024-01-10,Google Ads
+323,Diego Ferreira,cliente323@email.com,Rio de Janeiro,RJ,2024-02-26,Orgânico
+1190,Ana Ferreira,cliente1190@email.com,Londrina,PR,2024-06-08,Orgânico
+699,Elaine Almeida,cliente699@email.com,Olinda,PE,2025-12-01,Google Ads
+380,Ana Lima,cliente380@email.com,Niterói,RJ,2024-09-11,Instagram
+1270,Karen Oliveira,cliente1270@email.com,Sobral,CE,2025-11-14,Orgânico
+440,Felipe Rocha,cliente440@email.com,Curitiba,PR,2024-11-02,Indicação
+619,Isabela Santos,cliente619@email.com,Campinas,SP,2025-04-21,Indicação
+346,Lucas Pereira,cliente346@email.com,Brasília,DF,2025-02-07,Instagram
+776,Paulo Almeida,cliente776@email.com,Feira de Santana,BA,2024-12-05,Orgânico
+1426,Nicolas Almeida,cliente1426@email.com,Caruaru,PE,2024-02-15,Orgânico
+498,Olívia Rocha,cliente498@email.com,Niterói,RJ,2024-06-21,Indicação
+1472,Isabela Souza,cliente1472@email.com,Caxias do Sul,RS,2025-02-20,E-mail
+1078,Olívia Ferreira,cliente1078@email.com,Sobral,CE,2025-04-25,Indicação
+533,Elaine Costa,cliente533@email.com,Brasília,DF,2024-11-20,Orgânico
+1195,Gabriela Silva,cliente1195@email.com,Fortaleza,CE,2024-10-11,Indicação
+1477,Diego Silva,cliente1477@email.com,Olinda,PE,2025-10-02,E-mail
+1284,Olívia Almeida,cliente1284@email.com,Santos,SP,2024-11-13,E-mail
+811,Isabela Santos,,Porto Alegre,RS,2025-02-22,Google Ads
+79,Nicolas Costa,cliente79@email.com,Rio de Janeiro,RJ,2024-07-15,Indicação
+1214,Lucas Silva,cliente1214@email.com,Campinas,SP,2025-03-05,Orgânico
+1484,Diego Rocha,cliente1484@email.com,Caxias do Sul,RS,2025-02-15,Instagram
+43,Gabriela Costa,cliente43@email.com,São Paulo,sp,2025-05-07,Instagram
+1486,Vinícius Rocha,cliente1486@email.com,Rio de Janeiro,RJ,2025-03-14,Orgânico
+1404,Marina Oliveira,cliente1404@email.com,Caruaru,PE,2024-12-08,Indicação
+682,Ana Lima,cliente682@email.com,Campinas,SP,2025-12-03,Google Ads
+8,Carla Ferreira,cliente8@email.com,Niterói,RJ,2025-01-22,Indicação
+1156,Hugo Rocha,cliente1156@email.com,São Paulo,SP,2025-08-16,Indicação
+1185,Elaine Oliveira,cliente1185@email.com,Brasília,DF,2025-12-26,Google Ads
+63,Elaine Ferreira,cliente63@email.com,Curitiba,PR,2025-12-08,Orgânico
+1249,Paulo Almeida,cliente1249@email.com,Recife,PE,2024-09-13,Instagram
+104,Karen Costa,cliente104@email.com,Campinas,SP,2024-11-30,E-mail
+779,Carla Souza,cliente779@email.com,Salvador,BA,2025-10-03,Indicação
+689,  Carla Ferreira ,cliente689@email.com,Salvador,BA,2024-06-01,Google Ads
+1036,Ana Rocha,cliente1036@email.com,Santos,SP,2024-04-27,Indicação
+490,Elaine Ferreira,cliente490@email.com,Campinas,SP,2025-12-11,E-mail
+241,Samuel Pereira,cliente241@email.com,Salvador,BA,2025-05-27,E-mail
+600,Vinícius Santos,cliente600@email.com,Santos,SP,2024-11-21,Indicação
+1210,Vinícius Pereira,cliente1210@email.com,Niterói,RJ,2024-03-09,Indicação
+351,Paulo Rocha,cliente351@email.com,SOBRAL,CE,2025-06-29,E-mail
+1416,Tatiana Ferreira,cliente1416@email.com,Feira de Santana,BA,2025-02-16,Orgânico
+284,Ana Lima,cliente284@email.com,Recife,PE,2024-03-22,Instagram
+128,Felipe Santos,cliente128@email.com,Curitiba,PR,2025-12-07,E-mail
+387,Rafaela Almeida,cliente387@email.com,Caxias do Sul,RS,2024-03-24,Google Ads
+88,Rafaela Almeida,cliente88@email.com,São Paulo,SP,2025-12-13,Indicação
+301,Nicolas Rocha,cliente301@email.com,Salvador,BA,2024-03-21,Indicação
+1147,Paulo Rocha,cliente1147@email.com,Caxias do Sul,RS,2024-03-16,Google Ads
+1083,Isabela Lima,cliente1083@email.com,Recife,PE,2024-03-19,Indicação
+982,Bruno Santos,cliente982@email.com,Caruaru,PE,2025-04-12,Indicação
+890,Bruno Pereira,cliente890@email.com,Brasília,DF,2025-04-19,Instagram
+983,Samuel Costa,cliente983@email.com,Santos,SP,2024-02-10,Google Ads
+640,Tatiana Silva,cliente640@email.com,Fortaleza,CE,2025-06-20,Instagram
+1478,Karen Lima,cliente1478@email.com,Fortaleza,CE,2025-08-29,Google Ads
+1233,Tatiana Silva,cliente1233@email.com,Belo Horizonte,MG,2024-04-11,Instagram
+1117,Lucas Almeida,cliente1117@email.com,Porto Alegre,RS,2025-10-07,E-mail
+893,Hugo Silva,cliente893@email.com,São Paulo,SP,2025-03-29,E-mail
+1312,Vinícius Lima,cliente1312@email.com,São Paulo,SP,2025-03-15,Google Ads
+266,Rafaela Souza,cliente266@email.com,Sobral,CE,2025-11-17,Indicação
+197,Karen Rocha,cliente197@email.com,Recife,PE,2025-07-28,Google Ads
+778,Elaine Ferreira,cliente778@email.com,Recife,PE,2024-10-14,Orgânico
+1059,Vinícius Rocha,cliente1059@email.com,Niterói,RJ,2025-02-03,Instagram
+1119,Carla Ferreira,cliente1119@email.com,Santos,SP,2025-02-02,Orgânico
+1161,João Oliveira,cliente1161@email.com,Caruaru,PE,2025-11-16,E-mail
+61,Isabela Oliveira,cliente61@email.com,Caruaru,pe,2024-05-13,E-mail
+1276,Gabriela Costa,cliente1276@email.com,Feira de Santana,BA,2024-11-16,Orgânico
+1354,Nicolas Lima,cliente1354@email.com,PORTO ALEGRE,RS,2025-06-19,Indicação
+218,João Almeida,cliente218@email.com,Brasília,DF,2025-06-27,Google Ads
+977,Felipe Santos,cliente977@email.com,Rio de Janeiro,RJ,2024-05-20,Google Ads
+1402,Samuel Rocha,cliente1402@email.com,Niterói,RJ,2024-07-29,Orgânico
+1458,Vinícius Almeida,cliente1458@email.com,Belo Horizonte,MG,2024-01-03,Google Ads
+113,Bruno Pereira,cliente113@email.com,Sobral,CE,2025-08-02,Orgânico
+515,Bruno Souza,cliente515@email.com,Caxias do Sul,RS,2024-02-19,Google Ads
+1403,Marina Santos,cliente1403@email.com,Caxias do Sul,RS,2025-10-26,Google Ads
+1334,Diego Pereira,cliente1334@email.com,Recife,PE,2024-05-31,Instagram
+203,Olívia Almeida,cliente203@email.com,Salvador,BA,2024-08-10,Orgânico
+1198,Lucas Costa,cliente1198@email.com,Campinas,SP,2025-03-13,Google Ads
+721,  Nicolas Rocha ,cliente721@email.com,Feira de Santana,BA,2025-07-20,Indicação
+1422,Elaine Souza,cliente1422@email.com,Campinas,SP,2025-06-19,Orgânico
+384,Lucas Rocha,cliente384@email.com,Belo Horizonte,MG,2024-10-29,Instagram
+181,Olívia Lima,cliente181@email.com,Rio de Janeiro,RJ,2024-09-17,E-mail
+175,João Santos,cliente175@email.com,Caruaru,PE,2025-10-08,Google Ads
+442,Carla Ferreira,cliente442@email.com,Sobral,CE,2025-12-06,Google Ads
+751,Olívia Almeida,cliente751@email.com,Rio de Janeiro,RJ,2025-06-04,Orgânico
+296,Bruno Pereira,cliente296@email.com,CAMPINAS,SP,2024-07-23,Indicação
+671,Ana Pereira,cliente671@email.com,Santos,SP,2025-01-17,Instagram
+427,Bruno Rocha,cliente427@email.com,Niterói,RJ,2025-01-17,E-mail
+538,Rafaela Santos,cliente538@email.com,Recife,PE,2024-03-21,Indicação
+428,Samuel Costa,cliente428@email.com,Recife,PE,2025-06-28,Google Ads
+1043,Olívia Souza,,Uberlândia,MG,2024-04-05,Orgânico
+793,Rafaela Lima,cliente793@email.com,São Paulo,SP,2024-03-19,Instagram
+72,Karen Silva,cliente72@email.com,São Paulo,SP,2025-07-03,Orgânico
+1248,Rafaela Lima,cliente1248@email.com,Curitiba,PR,2025-05-11,E-mail
+2,Samuel Souza,cliente2@email.com,Feira de Santana,BA,2025-11-23,Google Ads
+504,Gabriela Silva,cliente504@email.com,Uberlândia,mg,2024-07-30,Indicação
+836,Hugo Pereira,cliente836@email.com,Uberlândia,MG,2024-08-13,Orgânico
+173,  Marina Souza ,cliente173@email.com,Campinas,SP,2025-12-10,Indicação
+7,Vinícius Lima,cliente7@email.com,São Paulo,SP,2024-12-18,E-mail
+992,Karen Rocha,cliente992@email.com,Santos,SP,2024-06-23,Instagram
+716,Paulo Oliveira,cliente716@email.com,Caruaru,PE,2024-06-17,E-mail
+1016,Diego Pereira,cliente1016@email.com,Niterói,RJ,2024-01-07,E-mail
+974,Vinícius Lima,cliente974@email.com,Fortaleza,CE,2025-09-18,Indicação
+953,  Samuel Santos ,cliente953@email.com,Recife,PE,2024-08-02,Indicação
+215,Bruno Almeida,cliente215@email.com,Uberlândia,MG,2024-02-01,E-mail
+1061,Lucas Souza,cliente1061@email.com,Curitiba,PR,2025-03-21,Indicação
+276,  Elaine Lima ,cliente276@email.com,Fortaleza,CE,2025-09-11,E-mail
+147,Carla Rocha,cliente147@email.com,Rio de Janeiro,RJ,2025-03-24,E-mail
+834,Karen Almeida,cliente834@email.com,Niterói,RJ,2024-09-06,Indicação
+353,Ana Rocha,cliente353@email.com,Campinas,SP,2025-12-05,Orgânico
+817,Lucas Costa,cliente817@email.com,Brasília,DF,2025-08-14,Google Ads
+1186,Tatiana Oliveira,cliente1186@email.com,Olinda,PE,2024-11-20,Orgânico
+587,Tatiana Costa,cliente587@email.com,Sobral,CE,2024-08-12,Instagram
+1182,Hugo Almeida,cliente1182@email.com,Campinas,SP,2024-09-23,Orgânico
+112,Hugo Souza,cliente112@email.com,Feira de Santana,BA,2025-10-04,Indicação
+1307,Olívia Almeida,,Fortaleza,CE,2024-11-23,Orgânico
+891,Carla Ferreira,cliente891@email.com,Olinda,PE,2025-02-05,Instagram
+746,Karen Pereira,cliente746@email.com,Campinas,SP,2024-08-06,Orgânico
+1306,Rafaela Oliveira,cliente1306@email.com,Caruaru,PE,2024-09-12,E-mail
+1060,João Rocha,cliente1060@email.com,Santos,SP,2024-11-20,Orgânico
+771,Karen Pereira,cliente771@email.com,Salvador,BA,2025-05-13,Instagram
+1138,Gabriela Souza,cliente1138@email.com,Caruaru,PE,2024-08-29,Google Ads
+752,Karen Ferreira,cliente752@email.com,Porto Alegre,RS,2024-07-16,Google Ads
+316,Felipe Oliveira,cliente316@email.com,Niterói,RJ,2024-11-03,Indicação
+1014,Gabriela Silva,,Santos,SP,2025-07-27,Instagram
+392,Ana Costa,cliente392@email.com,Niterói,RJ,2024-11-11,Google Ads
+908,Isabela Ferreira,cliente908@email.com,Campinas,SP,2024-10-29,E-mail
+675,Nicolas Oliveira,cliente675@email.com,Uberlândia,MG,2024-12-11,E-mail
+546,Lucas Silva,cliente546@email.com,Niterói,RJ,2025-06-07,Indicação
+991,Vinícius Oliveira,cliente991@email.com,Feira de Santana,BA,2025-06-07,Indicação
+513,Paulo Lima,cliente513@email.com,Brasília,DF,2024-08-04,Orgânico
+310,Lucas Costa,cliente310@email.com,Uberlândia,MG,2025-06-26,Orgânico
+709,Ana Souza,cliente709@email.com,Campinas,SP,2025-05-24,E-mail
+259,Bruno Santos,,Niterói,RJ,2024-06-25,E-mail
+1215,Rafaela Santos,cliente1215@email.com,Rio de Janeiro,RJ,2024-03-19,Google Ads
+1145,Gabriela Pereira,cliente1145@email.com,Belo Horizonte,MG,2025-03-05,Google Ads
+1327,Paulo Lima,cliente1327@email.com,Santos,SP,2024-05-10,Orgânico
+434,Marina Ferreira,cliente434@email.com,Olinda,PE,2025-01-23,Google Ads
+898,Isabela Rocha,cliente898@email.com,São Paulo,SP,2024-06-20,E-mail
+194,Lucas Souza,cliente194@email.com,Brasília,DF,2025-07-24,Google Ads
+620,Diego Souza,cliente620@email.com,Caruaru,PE,2025-12-14,Orgânico
+531,Hugo Almeida,cliente531@email.com,Campinas,SP,2024-02-25,Google Ads
+83,Vinícius Pereira,cliente83@email.com,São Paulo,SP,2025-11-10,Instagram
+923,Lucas Almeida,cliente923@email.com,Sobral,CE,2025-08-13,Google Ads
+998,Ana Santos,cliente998@email.com,Caruaru,PE,2025-09-06,Orgânico
+601,Elaine Pereira,cliente601@email.com,Caruaru,PE,2025-05-23,Google Ads
+724,Hugo Lima,cliente724@email.com,Campinas,SP,2025-09-15,Orgânico
+1410,Tatiana Rocha,cliente1410@email.com,Santos,SP,2024-08-29,Indicação
+1440,Elaine Lima,cliente1440@email.com,Campinas,SP,2024-04-01,Instagram
+939,Tatiana Oliveira,cliente939@email.com,Olinda,PE,2025-07-06,Indicação
+729,Paulo Rocha,cliente729@email.com,Sobral,CE,2025-07-29,Indicação
+660,Samuel Oliveira,,Caruaru,PE,2024-09-21,Orgânico
+95,Gabriela Souza,,Campinas,SP,2024-06-05,E-mail
+1039,Karen Ferreira,cliente1039@email.com,Olinda,PE,2025-09-19,Google Ads
+120,Isabela Pereira,cliente120@email.com,Niterói,RJ,2024-12-29,Indicação
+26,Samuel Ferreira,cliente26@email.com,São Paulo,SP,2024-06-14,Indicação
+1280,Elaine Santos,cliente1280@email.com,São Paulo,SP,2025-04-18,Orgânico
+507,Elaine Oliveira,,Curitiba,PR,2024-10-10,Instagram
+521,Olívia Silva,cliente521@email.com,Belo Horizonte,MG,2025-06-15,Orgânico
+302,Carla Pereira,cliente302@email.com,Santos,SP,2024-04-15,Orgânico
+933,Hugo Lima,cliente933@email.com,Caxias do Sul,RS,2024-09-12,Google Ads
+536,Rafaela Costa,cliente536@email.com,Niterói,RJ,2025-10-05,E-mail
+303,Nicolas Oliveira,cliente303@email.com,Santos,SP,2025-09-09,E-mail
+403,Gabriela Silva,cliente403@email.com,Rio de Janeiro,RJ,2025-07-06,Indicação
+741,Isabela Silva,cliente741@email.com,Olinda,PE,2025-08-21,E-mail
+1261,Bruno Oliveira,cliente1261@email.com,Olinda,PE,2025-08-27,Orgânico
+979,Felipe Almeida,cliente979@email.com,Sobral,CE,2024-03-08,Orgânico
+1139,Rafaela Santos,cliente1139@email.com,Uberlândia,MG,2025-07-06,Instagram
+1360,Gabriela Oliveira,cliente1360@email.com,Brasília,DF,2024-07-10,Indicação
+1107,Nicolas Santos,cliente1107@email.com,Caruaru,PE,2025-07-07,Google Ads
+790,Marina Pereira,cliente790@email.com,Belo Horizonte,MG,2025-01-20,Indicação
+119,Ana Almeida,cliente119@email.com,Feira de Santana,BA,2024-12-10,Instagram
+1398,Felipe Costa,cliente1398@email.com,São Paulo,SP,2025-02-15,E-mail
+1413,Lucas Almeida,cliente1413@email.com,Rio de Janeiro,RJ,2024-07-16,Instagram
+714,Hugo Silva,cliente714@email.com,Olinda,PE,2025-11-05,Orgânico
+523,Diego Pereira,cliente523@email.com,Campinas,SP,2024-04-14,Orgânico
+894,Rafaela Santos,cliente894@email.com,Feira de Santana,BA,2024-04-06,E-mail
+398,João Almeida,cliente398@email.com,Caxias do Sul,RS,2024-01-24,Indicação
+333,Elaine Pereira,cliente333@email.com,Santos,SP,2025-09-13,Orgânico
+789,Isabela Lima,cliente789@email.com,Caruaru,PE,2025-06-17,Indicação
+1169,Hugo Ferreira,cliente1169@email.com,Recife,PE,2024-12-08,E-mail
+80,Samuel Silva,cliente80@email.com,Uberlândia,MG,2025-02-19,Orgânico
+838,  Carla Ferreira ,cliente838@email.com,São Paulo,SP,2024-12-16,E-mail
+146,João Costa,cliente146@email.com,Olinda,PE,2025-12-06,Indicação
+631,Nicolas Lima,cliente631@email.com,Caxias do Sul,RS,2024-12-18,E-mail
+1003,Felipe Almeida,cliente1003@email.com,Uberlândia,MG,2025-07-29,Google Ads
+787,Bruno Santos,cliente787@email.com,Santos,SP,2024-08-27,Orgânico
+765,Diego Silva,cliente765@email.com,Porto Alegre,RS,2024-05-24,Indicação
+809,Lucas Rocha,cliente809@email.com,Fortaleza,CE,2025-01-25,E-mail
+1228,Tatiana Silva,cliente1228@email.com,SOBRAL,CE,2025-06-09,Google Ads
+829,Tatiana Pereira,cliente829@email.com,Feira de Santana,BA,2025-07-26,Orgânico
+1126,Diego Almeida,cliente1126@email.com,Caruaru,PE,2024-04-18,Indicação
+767,  Gabriela Costa ,,SALVADOR,BA,2024-12-18,Instagram
+1026,Gabriela Ferreira,cliente1026@email.com,Campinas,SP,2024-11-05,Instagram
+27,Diego Pereira,cliente27@email.com,Campinas,SP,2024-01-20,Instagram
+9,Tatiana Santos,cliente9@email.com,Porto Alegre,RS,2025-01-05,Google Ads
+1222,Diego Oliveira,cliente1222@email.com,Rio de Janeiro,RJ,2024-03-19,E-mail
+317,Elaine Santos,cliente317@email.com,Campinas,SP,2024-07-24,Google Ads
+401,Diego Rocha,cliente401@email.com,São Paulo,SP,2024-03-09,E-mail
+962,Ana Pereira,cliente962@email.com,Niterói,RJ,2024-06-09,Orgânico
+1293,Olívia Costa,cliente1293@email.com,Campinas,sp,2024-10-08,Indicação
+683,Vinícius Rocha,cliente683@email.com,Salvador,BA,2024-10-03,E-mail
+148,Isabela Silva,cliente148@email.com,Salvador,BA,2025-09-10,Instagram
+985,Vinícius Silva,cliente985@email.com,Santos,sp,2024-10-28,Indicação
+769,Bruno Ferreira,cliente769@email.com,Feira de Santana,BA,2025-08-03,Indicação
+581,Hugo Ferreira,cliente581@email.com,São Paulo,SP,2025-06-22,E-mail
+929,João Rocha,cliente929@email.com,Recife,PE,2024-02-05,Indicação
+627,Carla Costa,,Santos,SP,2024-03-09,E-mail
+950,Gabriela Pereira,cliente950@email.com,Curitiba,PR,2024-08-27,Google Ads
+780,Tatiana Costa,cliente780@email.com,Belo Horizonte,MG,2025-08-18,Google Ads
+527,Elaine Souza,cliente527@email.com,Caruaru,PE,2024-04-12,E-mail
+1466,Vinícius Santos,,São Paulo,SP,2025-12-21,Instagram
+313,João Almeida,cliente313@email.com,São Paulo,SP,2025-09-18,Google Ads
+615,Ana Santos,cliente615@email.com,Rio de Janeiro,RJ,2024-04-09,Orgânico
+171,Diego Ferreira,cliente171@email.com,Caxias do Sul,RS,2025-03-26,Google Ads
+876,Carla Almeida,cliente876@email.com,Niterói,RJ,2024-08-20,Orgânico
+1320,Marina Costa,cliente1320@email.com,Feira de Santana,BA,2025-12-31,Google Ads
+41,Olívia Ferreira,cliente41@email.com,São Paulo,SP,2024-03-18,Google Ads
+1181,Olívia Lima,cliente1181@email.com,Porto Alegre,RS,2025-03-31,Orgânico
+320,Tatiana Souza,cliente320@email.com,Rio de Janeiro,RJ,2025-02-23,Orgânico
+888,Ana Santos,cliente888@email.com,São Paulo,SP,2025-03-24,Instagram
+1035,Olívia Souza,cliente1035@email.com,Campinas,SP,2024-11-22,Instagram
+866,Marina Lima,cliente866@email.com,Feira de Santana,BA,2025-09-11,Orgânico
+904,Elaine Lima,cliente904@email.com,Salvador,BA,2025-01-01,E-mail
+1282,Felipe Lima,cliente1282@email.com,Santos,SP,2024-10-20,Indicação
+1231,Carla Oliveira,cliente1231@email.com,Feira de Santana,BA,2024-01-30,Indicação
+774,Nicolas Oliveira,cliente774@email.com,Belo Horizonte,MG,2024-11-19,Orgânico
+816,Felipe Pereira,cliente816@email.com,Sobral,CE,2025-05-09,Orgânico
+737,Vinícius Almeida,cliente737@email.com,Salvador,BA,2024-07-26,Orgânico
+164,Karen Ferreira,cliente164@email.com,Campinas,SP,2025-02-28,Google Ads
+986,Olívia Souza,cliente986@email.com,Curitiba,PR,2025-04-19,Instagram
+557,Ana Santos,cliente557@email.com,Caruaru,PE,2025-02-23,Orgânico
+413,Gabriela Rocha,cliente413@email.com,Belo Horizonte,MG,2024-03-15,E-mail
+919,Lucas Silva,cliente919@email.com,Feira de Santana,BA,2025-03-01,Indicação
+585,Rafaela Pereira,cliente585@email.com,Fortaleza,CE,2025-04-28,Instagram
+621,Tatiana Santos,cliente621@email.com,Fortaleza,CE,2025-02-27,E-mail
+510,Marina Ferreira,cliente510@email.com,Uberlândia,MG,2024-04-05,Orgânico
+362,João Santos,cliente362@email.com,Londrina,PR,2024-10-31,Orgânico
+869,Diego Souza,cliente869@email.com,Campinas,SP,2024-04-15,Indicação
+502,Olívia Souza,cliente502@email.com,São Paulo,SP,2024-03-30,Instagram
+405,Rafaela Santos,cliente405@email.com,Campinas,SP,2024-05-26,Orgânico
+337,Hugo Oliveira,cliente337@email.com,Caxias do Sul,RS,2025-03-04,Indicação
+638,Paulo Ferreira,cliente638@email.com,Campinas,SP,2025-02-20,Google Ads
+957,Carla Costa,cliente957@email.com,Uberlândia,MG,2024-01-09,Orgânico
+873,  Karen Almeida ,cliente873@email.com,Olinda,PE,2024-12-31,Indicação
+161,Elaine Almeida,cliente161@email.com,Londrina,PR,2025-10-25,
+1040,Bruno Souza,cliente1040@email.com,Olinda,PE,2025-04-27,Google Ads
+484,Isabela Souza,cliente484@email.com,Salvador,BA,2024-07-29,Indicação
+1121,Marina Souza,cliente1121@email.com,São Paulo,SP,2024-02-13,Indicação
+1211,Paulo Souza,cliente1211@email.com,Niterói,RJ,2024-09-21,Indicação
+1241,João Costa,cliente1241@email.com,São Paulo,SP,2025-02-21,Google Ads
+258,Olívia Souza,cliente258@email.com,Campinas,SP,2024-03-04,Google Ads
+1155,Ana Costa,cliente1155@email.com,Porto Alegre,RS,2024-10-12,Instagram
+290,Carla Ferreira,cliente290@email.com,Rio de Janeiro,RJ,2025-01-04,E-mail
+107,Gabriela Silva,cliente107@email.com,Fortaleza,CE,2024-09-10,Instagram
+395,Elaine Costa,cliente395@email.com,Campinas,SP,2024-07-03,E-mail
+1401,Isabela Ferreira,cliente1401@email.com,Curitiba,PR,2024-01-09,E-mail
+1007,Vinícius Silva,cliente1007@email.com,São Paulo,SP,2024-08-02,Indicação
+133,Paulo Almeida,,Uberlândia,MG,2025-04-25,Instagram
+13,Felipe Almeida,cliente13@email.com,Niterói,RJ,2024-09-07,Orgânico
+1258,Samuel Ferreira,cliente1258@email.com,Uberlândia,MG,2025-05-17,E-mail
+1335,Felipe Ferreira,cliente1335@email.com,Caxias do Sul,RS,2024-07-03,Indicação
+659,Felipe Lima,cliente659@email.com,Porto Alegre,RS,2025-07-25,E-mail
+1068,Paulo Costa,cliente1068@email.com,Belo Horizonte,MG,2024-05-27,Google Ads
+782,João Oliveira,cliente782@email.com,Campinas,SP,2025-08-26,Indicação
+456,Carla Pereira,cliente456@email.com,Niterói,RJ,2025-05-10,Instagram
+509,Nicolas Costa,cliente509@email.com,Uberlândia,MG,2025-10-04,Google Ads
+111,Marina Santos,cliente111@email.com,Salvador,BA,2025-01-19,Indicação
+1105,Isabela Lima,cliente1105@email.com,São Paulo,SP,2024-03-02,E-mail
+1381,Felipe Santos,cliente1381@email.com,Salvador,BA,2024-05-12,Indicação
+1285,Gabriela Oliveira,cliente1285@email.com,Niterói,RJ,2024-02-07,Instagram
+702,Karen Ferreira,cliente702@email.com,Santos,SP,2025-11-16,Indicação
+679,Bruno Rocha,cliente679@email.com,Fortaleza,ce,2025-09-30,Google Ads
+470,Felipe Rocha,cliente470@email.com,Belo Horizonte,MG,2024-12-29,Indicação
+49,Marina Souza,cliente49@email.com,Caruaru,PE,2024-08-28,Instagram
+591,Hugo Rocha,cliente591@email.com,Recife,PE,2024-02-27,Google Ads
+850,Karen Pereira,cliente850@email.com,São Paulo,SP,2025-09-19,E-mail
+1067,Elaine Oliveira,cliente1067@email.com,São Paulo,SP,2025-11-17,Google Ads
+82,Rafaela Almeida,cliente82@email.com,Rio de Janeiro,RJ,2024-08-06,Google Ads
+651,Lucas Ferreira,cliente651@email.com,Caruaru,PE,2025-06-07,Indicação
+570,João Lima,cliente570@email.com,São Paulo,SP,2024-02-20,Google Ads
+275,Rafaela Ferreira,cliente275@email.com,Sobral,CE,2025-01-26,Instagram
+1358,Bruno Souza,cliente1358@email.com,Sobral,CE,2025-02-06,Orgânico
+909,Rafaela Costa,cliente909@email.com,Caruaru,PE,2025-10-15,Instagram
+488,João Rocha,cliente488@email.com,Santos,SP,2025-11-20,Google Ads
+1297,Hugo Lima,cliente1297@email.com,Feira de Santana,BA,2025-11-18,Orgânico
+1435,Hugo Rocha,cliente1435@email.com,Campinas,SP,2024-07-29,Google Ads
+770,Carla Lima,cliente770@email.com,Recife,pe,2025-11-18,Instagram
+311,Ana Oliveira,cliente311@email.com,Campinas,SP,2024-04-26,Indicação
+1246,Paulo Lima,cliente1246@email.com,Caruaru,PE,2025-03-10,Indicação
+608,Karen Oliveira,cliente608@email.com,Londrina,PR,2024-03-16,Instagram
+1022,Lucas Souza,,Belo Horizonte,MG,2024-12-05,Orgânico
+1277,Samuel Oliveira,cliente1277@email.com,BELO HORIZONTE,MG,2025-04-09,Indicação
+282,Karen Oliveira,cliente282@email.com,PORTO ALEGRE,RS,2025-10-27,Google Ads
+123,Olívia Silva,cliente123@email.com,Belo Horizonte,MG,2025-05-17,Orgânico
+163,Gabriela Rocha,cliente163@email.com,Rio de Janeiro,RJ,2025-01-27,Google Ads
+499,Diego Lima,cliente499@email.com,Niterói,RJ,2025-08-09,Indicação
+878,Lucas Lima,cliente878@email.com,Sobral,CE,2024-05-19,Indicação
+485,Gabriela Almeida,cliente485@email.com,São Paulo,SP,2024-11-29,Orgânico
+633,Marina Silva,cliente633@email.com,Campinas,SP,2025-09-15,Orgânico
+1273,  Tatiana Souza ,cliente1273@email.com,Feira de Santana,BA,2024-04-04,Orgânico
+44,Isabela Almeida,cliente44@email.com,Campinas,SP,2025-02-03,E-mail
+1174,Carla Santos,cliente1174@email.com,Campinas,SP,2025-11-20,Google Ads
+28,Carla Souza,cliente28@email.com,Caruaru,PE,2025-08-03,E-mail
+1032,Carla Pereira,cliente1032@email.com,Feira de Santana,BA,2025-08-31,Google Ads
+477,Paulo Pereira,cliente477@email.com,Sobral,CE,2025-06-17,Google Ads
+1047,Diego Pereira,cliente1047@email.com,Olinda,PE,2025-05-01,E-mail
+784,Felipe Ferreira,cliente784@email.com,Porto Alegre,RS,2025-09-20,
+920,João Souza,cliente920@email.com,Recife,PE,2024-03-13,Indicação
+1278,Paulo Santos,cliente1278@email.com,Caxias do Sul,RS,2025-08-13,Orgânico
+687,Paulo Santos,cliente687@email.com,Santos,SP,2025-07-15,E-mail
+139,Diego Santos,cliente139@email.com,Belo Horizonte,MG,2025-09-16,Orgânico
+988,Felipe Almeida,cliente988@email.com,Santos,SP,2024-01-26,Instagram
+652,Diego Almeida,cliente652@email.com,BELO HORIZONTE,MG,2024-11-01,Orgânico
+360,Samuel Pereira,cliente360@email.com,Londrina,PR,2025-04-15,Orgânico
+681,Isabela Almeida,cliente681@email.com,Santos,SP,2025-07-14,Instagram
+273,Hugo Ferreira,cliente273@email.com,Fortaleza,CE,2025-04-04,Orgânico
+796,Felipe Costa,cliente796@email.com,Rio de Janeiro,RJ,2025-08-27,Instagram
+665,Elaine Santos,cliente665@email.com,Olinda,PE,2024-06-03,E-mail
+195,Olívia Pereira,cliente195@email.com,Santos,SP,2024-05-06,Orgânico
+516,Olívia Almeida,cliente516@email.com,Recife,PE,2024-06-10,E-mail
+1395,Nicolas Santos,cliente1395@email.com,São Paulo,SP,2025-06-26,E-mail
+1357,Ana Souza,cliente1357@email.com,Uberlândia,MG,2025-05-30,Instagram
+1388,Olívia Souza,cliente1388@email.com,Curitiba,pr,2025-03-24,Indicação
+209,Elaine Ferreira,cliente209@email.com,Olinda,PE,2024-05-28,Instagram
+1462,Ana Souza,cliente1462@email.com,Campinas,SP,2025-12-14,Orgânico
+618,Lucas Oliveira,cliente618@email.com,Campinas,SP,2025-01-25,Google Ads
+1393,Karen Lima,cliente1393@email.com,Santos,SP,2025-04-30,Instagram
+448,Lucas Souza,,Salvador,BA,2024-11-20,Google Ads
+138,Tatiana Costa,cliente138@email.com,Londrina,PR,2024-10-31,Indicação
+1331,Bruno Almeida,,Olinda,PE,2024-07-06,Instagram
+1318,Hugo Pereira,cliente1318@email.com,Santos,SP,2025-04-06,E-mail
+571,Samuel Ferreira,cliente571@email.com,Curitiba,PR,2025-04-08,Google Ads
+136,Hugo Souza,cliente136@email.com,Londrina,PR,2024-03-28,Indicação
+451,Carla Pereira,cliente451@email.com,Santos,SP,2024-01-27,Google Ads
+1369,Paulo Almeida,cliente1369@email.com,Salvador,BA,2025-03-31,E-mail
+436,Tatiana Souza,cliente436@email.com,Belo Horizonte,MG,2024-12-05,Instagram
+798,Elaine Silva,cliente798@email.com,Recife,PE,2025-08-09,Orgânico
+1498,Vinícius Lima,cliente1498@email.com,Uberlândia,MG,2024-12-09,Orgânico
+648,Felipe Rocha,cliente648@email.com,Rio de Janeiro,RJ,2024-05-15,Instagram
+824,Rafaela Lima,cliente824@email.com,Rio de Janeiro,RJ,2024-07-25,Google Ads
+31,Gabriela Lima,cliente31@email.com,Sobral,CE,2025-12-07,Orgânico
+356,Diego Santos,cliente356@email.com,Recife,PE,2025-12-18,E-mail
+663,Bruno Rocha,cliente663@email.com,Porto Alegre,RS,2025-04-26,E-mail
+731,Bruno Santos,cliente731@email.com,Campinas,SP,2024-02-24,Instagram
+217,Elaine Lima,cliente217@email.com,Uberlândia,MG,2024-03-08,E-mail
+438,Isabela Ferreira,cliente438@email.com,Curitiba,PR,2025-12-01,Instagram
+476,Lucas Lima,cliente476@email.com,Olinda,PE,2024-05-25,E-mail
+248,Rafaela Ferreira,cliente248@email.com,Rio de Janeiro,RJ,2024-04-26,Orgânico
+877,João Silva,cliente877@email.com,São Paulo,SP,2024-06-08,Indicação
+810,Hugo Souza,cliente810@email.com,Olinda,PE,2025-05-03,Indicação
+1110,Bruno Costa,cliente1110@email.com,Uberlândia,MG,2024-01-01,Instagram
+1424,Nicolas Silva,cliente1424@email.com,Campinas,SP,2025-08-26,Orgânico
+389,Karen Ferreira,cliente389@email.com,NITERÓI,RJ,2024-06-17,Google Ads
+1152,Hugo Lima,cliente1152@email.com,Santos,SP,2024-12-17,Instagram
+661,Lucas Santos,cliente661@email.com,Uberlândia,MG,2024-08-15,E-mail
+1292,Nicolas Santos,cliente1292@email.com,Fortaleza,CE,2024-08-29,Google Ads
+221,Nicolas Pereira,cliente221@email.com,Feira de Santana,BA,2024-11-16,Orgânico
+1495,Bruno Costa,cliente1495@email.com,Sobral,CE,2025-07-26,Instagram
+852,Elaine Rocha,cliente852@email.com,Rio de Janeiro,RJ,2025-08-08,Google Ads
+91,Paulo Almeida,cliente91@email.com,Niterói,RJ,2024-06-11,Instagram
+343,Bruno Costa,,Fortaleza,CE,2025-01-09,Indicação
+344,Samuel Lima,cliente344@email.com,Belo Horizonte,MG,2025-01-06,E-mail
+198,João Costa,cliente198@email.com,Belo Horizonte,MG,2025-04-20,Instagram
+452,Marina Silva,cliente452@email.com,Uberlândia,MG,2024-11-28,E-mail
+130,Hugo Pereira,cliente130@email.com,Porto Alegre,RS,2024-10-30,Orgânico
+394,Bruno Souza,cliente394@email.com,Feira de Santana,BA,2025-07-08,Google Ads
+691,Felipe Silva,cliente691@email.com,Niterói,RJ,2024-04-12,Orgânico
+30,Vinícius Costa,cliente30@email.com,São Paulo,SP,2025-06-24,Indicação
+58,Vinícius Santos,cliente58@email.com,Santos,SP,2024-10-15,Orgânico
+864,Tatiana Costa,cliente864@email.com,Rio de Janeiro,RJ,2025-09-19,Google Ads
+33,Tatiana Ferreira,cliente33@email.com,Recife,PE,2024-01-22,Indicação
+188,Hugo Santos,cliente188@email.com,Uberlândia,MG,2024-12-26,Instagram
+410,Samuel Ferreira,cliente410@email.com,Belo Horizonte,MG,2025-03-02,E-mail
+489,Diego Santos,cliente489@email.com,Feira de Santana,BA,2024-11-16,Google Ads
+1468,Samuel Santos,cliente1468@email.com,Rio de Janeiro,RJ,2024-06-23,Google Ads
+512,Lucas Souza,cliente512@email.com,Feira de Santana,BA,2025-04-14,Instagram
+1367,Gabriela Souza,cliente1367@email.com,Caxias do Sul,RS,2025-07-05,E-mail
+773,  João Rocha ,cliente773@email.com,Rio de Janeiro,RJ,2025-09-23,Indicação
+100,Ana Costa,cliente100@email.com,Campinas,SP,2025-05-12,E-mail
+10,Carla Santos,cliente10@email.com,Salvador,BA,2024-10-23,E-mail
+1226,Nicolas Souza,cliente1226@email.com,São Paulo,SP,2024-03-21,Google Ads
+108,Diego Rocha,cliente108@email.com,Recife,PE,2025-11-16,E-mail
+910,Lucas Rocha,cliente910@email.com,Porto Alegre,RS,2025-09-26,Orgânico
+632,Bruno Oliveira,cliente632@email.com,Uberlândia,MG,2025-04-29,E-mail
+800,Olívia Rocha,cliente800@email.com,Londrina,PR,2024-08-09,E-mail
+211,Felipe Lima,cliente211@email.com,Belo Horizonte,MG,2024-01-17,Instagram
+1071,Nicolas Rocha,cliente1071@email.com,São Paulo,SP,2024-07-09,Indicação
+98,João Costa,cliente98@email.com,Olinda,PE,2024-12-26,Indicação
+906,Lucas Pereira,cliente906@email.com,Uberlândia,MG,2025-07-10,Orgânico
+443,Carla Pereira,cliente443@email.com,Caruaru,PE,2024-08-25,Indicação
+1091,Marina Almeida,cliente1091@email.com,CAMPINAS,SP,2025-11-30,Instagram
+71,Carla Lima,cliente71@email.com,Campinas,SP,2024-10-12,Indicação
+444,Karen Silva,cliente444@email.com,Londrina,PR,2025-02-10,E-mail
+365,Lucas Almeida,cliente365@email.com,Caruaru,PE,2024-03-21,Orgânico
+734,Samuel Santos,cliente734@email.com,Uberlândia,MG,2025-11-22,Instagram
+903,Lucas Almeida,cliente903@email.com,Brasília,DF,2025-10-22,Google Ads
+1444,Rafaela Ferreira,cliente1444@email.com,Uberlândia,MG,2025-05-19,Google Ads
+560,Elaine Lima,cliente560@email.com,Rio de Janeiro,RJ,2024-03-02,
+1396,Olívia Ferreira,cliente1396@email.com,Santos,SP,2025-02-23,Orgânico
+159,Hugo Oliveira,cliente159@email.com,Brasília,DF,2025-09-15,Indicação
+345,Isabela Rocha,cliente345@email.com,Rio de Janeiro,RJ,2025-07-17,Instagram
+1345,Felipe Costa,cliente1345@email.com,Olinda,PE,2024-08-01,Orgânico
+1432,Samuel Souza,cliente1432@email.com,Belo Horizonte,MG,2025-10-21,Indicação
+255,João Souza,cliente255@email.com,Caruaru,PE,2025-01-12,Google Ads
+603,Gabriela Santos,,Rio de Janeiro,RJ,2024-09-28,Orgânico
+363,Isabela Lima,cliente363@email.com,Rio de Janeiro,RJ,2025-07-27,Indicação
+206,Vinícius Silva,cliente206@email.com,Salvador,BA,2025-10-19,Orgânico
+1244,Tatiana Souza,cliente1244@email.com,Santos,SP,2025-02-14,Instagram
+37,Gabriela Souza,cliente37@email.com,Fortaleza,CE,2025-02-20,E-mail
+350,João Rocha,cliente350@email.com,Campinas,SP,2025-09-23,Indicação
+331,Marina Lima,cliente331@email.com,Campinas,SP,2025-12-02,Google Ads
+572,Diego Silva,cliente572@email.com,Rio de Janeiro,RJ,2024-05-23,Instagram
+965,Elaine Souza,cliente965@email.com,Santos,SP,2025-02-06,E-mail
+288,João Costa,cliente288@email.com,Belo Horizonte,MG,2024-05-27,Indicação
+897,Gabriela Souza,cliente897@email.com,Porto Alegre,RS,2025-11-13,E-mail
+497,João Silva,cliente497@email.com,Olinda,PE,2024-08-13,Instagram
+1124,Elaine Silva,cliente1124@email.com,Recife,PE,2025-12-19,Google Ads
+170,Elaine Ferreira,cliente170@email.com,Niterói,RJ,2024-02-07,Google Ads
+140,Hugo Oliveira,cliente140@email.com,Salvador,BA,2024-06-09,Instagram
+1481,Bruno Costa,cliente1481@email.com,Olinda,PE,2024-03-03,Google Ads
+993,Felipe Silva,cliente993@email.com,Campinas,SP,2024-05-28,Orgânico
+951,Hugo Rocha,,Recife,PE,2024-02-25,Orgânico
+1394,Nicolas Pereira,cliente1394@email.com,Caruaru,PE,2025-01-16,Instagram
+280,Rafaela Pereira,cliente280@email.com,São Paulo,SP,2025-02-09,E-mail
+235,Olívia Costa,cliente235@email.com,Feira de Santana,BA,2024-10-05,Indicação
+514,Elaine Rocha,cliente514@email.com,Campinas,SP,2025-08-14,Orgânico
+22,Rafaela Lima,cliente22@email.com,Belo Horizonte,MG,2025-04-24,Google Ads
+78,Nicolas Pereira,cliente78@email.com,Niterói,RJ,2025-11-13,Orgânico
+813,Nicolas Pereira,cliente813@email.com,Salvador,BA,2024-11-19,Instagram
+399,Hugo Almeida,cliente399@email.com,Campinas,sp,2024-08-23,Instagram
+1378,Karen Rocha,cliente1378@email.com,Niterói,RJ,2025-08-24,Instagram
+704,Vinícius Silva,cliente704@email.com,São Paulo,SP,2025-07-25,Instagram
+1436,Karen Costa,cliente1436@email.com,Fortaleza,CE,2025-09-13,E-mail
+946,Karen Rocha,cliente946@email.com,Recife,PE,2025-03-16,Google Ads
+150,Paulo Ferreira,cliente150@email.com,Caruaru,PE,2024-06-28,E-mail
+1453,Tatiana Souza,cliente1453@email.com,Campinas,SP,2025-06-30,Google Ads
+947,Lucas Pereira,cliente947@email.com,Salvador,BA,2025-03-09,Orgânico
+92,Rafaela Almeida,cliente92@email.com,Porto Alegre,RS,2024-10-10,Orgânico
+1037,Lucas Ferreira,cliente1037@email.com,Olinda,PE,2025-07-09,Orgânico
+425,Bruno Silva,,Niterói,RJ,2024-03-17,Instagram
+518,Isabela Souza,cliente518@email.com,Olinda,PE,2025-01-04,Instagram
+338,Felipe Almeida,cliente338@email.com,Feira de Santana,BA,2024-07-13,E-mail
+924,  Samuel Costa ,cliente924@email.com,Santos,SP,2024-07-03,Orgânico
+840,Hugo Santos,cliente840@email.com,Niterói,RJ,2024-07-23,Instagram
+1450,Olívia Rocha,cliente1450@email.com,Niterói,RJ,2024-01-02,Instagram
+1034,Karen Santos,cliente1034@email.com,Belo Horizonte,MG,2024-08-02,Orgânico
+216,Olívia Souza,cliente216@email.com,Salvador,BA,2025-05-17,Orgânico
+157,Olívia Silva,cliente157@email.com,Fortaleza,CE,2025-10-02,Orgânico
+756,Bruno Souza,cliente756@email.com,Rio de Janeiro,RJ,2024-12-05,Google Ads
+249,Elaine Santos,cliente249@email.com,São Paulo,SP,2025-10-22,Instagram
+1418,Rafaela Oliveira,cliente1418@email.com,Sobral,CE,2024-05-27,E-mail
+843,Lucas Rocha,cliente843@email.com,Londrina,PR,2025-05-08,E-mail
+1011,Paulo Oliveira,cliente1011@email.com,Salvador,BA,2025-05-24,Orgânico
+445,Samuel Costa,cliente445@email.com,Niterói,RJ,2024-12-30,Instagram
+137,Hugo Ferreira,cliente137@email.com,Uberlândia,MG,2025-09-25,E-mail
+598,Marina Lima,cliente598@email.com,Feira de Santana,BA,2024-06-28,Instagram
+1452,Gabriela Rocha,cliente1452@email.com,Brasília,DF,2025-10-09,Google Ads
+1287,Ana Silva,cliente1287@email.com,Brasília,DF,2025-05-12,Orgânico
+561,Nicolas Pereira,cliente561@email.com,Londrina,PR,2025-06-16,Google Ads
+324,Hugo Pereira,cliente324@email.com,Santos,SP,2024-11-26,Orgânico
+491,Marina Costa,cliente491@email.com,Belo Horizonte,MG,2025-08-11,E-mail
+90,Karen Almeida,cliente90@email.com,Brasília,df,2025-09-01,Indicação
+806,Rafaela Souza,cliente806@email.com,Belo Horizonte,MG,2025-06-28,E-mail
+196,Lucas Souza,cliente196@email.com,Belo Horizonte,MG,2025-10-15,E-mail
+1165,Vinícius Ferreira,cliente1165@email.com,Rio de Janeiro,RJ,2024-10-03,Google Ads
+376,Isabela Santos,cliente376@email.com,Porto Alegre,RS,2025-04-24,Orgânico
+788,Bruno Silva,cliente788@email.com,Santos,SP,2025-04-10,Orgânico
+938,Marina Silva,cliente938@email.com,Londrina,PR,2025-10-11,Indicação
+885,Diego Almeida,cliente885@email.com,Santos,SP,2024-10-23,E-mail
+1266,Nicolas Rocha,cliente1266@email.com,Santos,SP,2025-04-16,E-mail
+368,Hugo Santos,cliente368@email.com,Recife,PE,2025-06-27,
+511,Karen Rocha,cliente511@email.com,Rio de Janeiro,RJ,2025-05-14,Google Ads
+851,Lucas Pereira,cliente851@email.com,Niterói,RJ,2025-03-05,Orgânico
+359,Paulo Ferreira,cliente359@email.com,Campinas,SP,2025-11-09,Orgânico
+1256,Bruno Oliveira,cliente1256@email.com,Niterói,RJ,2024-02-06,Instagram
+1392,Gabriela Almeida,cliente1392@email.com,Sobral,CE,2024-05-05,Google Ads
+610,Felipe Rocha,cliente610@email.com,Niterói,RJ,2025-10-31,Instagram
+711,Samuel Santos,cliente711@email.com,Uberlândia,MG,2025-06-04,Orgânico
+935,Tatiana Souza,cliente935@email.com,SANTOS,SP,2025-12-07,Orgânico
+1324,Bruno Rocha,cliente1324@email.com,Brasília,DF,2025-07-26,Orgânico
+590,Samuel Lima,cliente590@email.com,Curitiba,PR,2025-05-19,E-mail
+187,Vinícius Almeida,cliente187@email.com,Caxias do Sul,RS,2024-02-20,Instagram
+81,Vinícius Pereira,cliente81@email.com,Campinas,SP,2025-08-16,E-mail
+1180,Karen Almeida,cliente1180@email.com,Santos,SP,2024-12-17,Indicação
+948,Ana Lima,cliente948@email.com,São Paulo,SP,2025-11-02,Orgânico
+943,Carla Costa,cliente943@email.com,Niterói,RJ,2024-09-25,Instagram
+1006,Karen Ferreira,cliente1006@email.com,Olinda,PE,2024-10-08,Indicação
+1166,Bruno Ferreira,cliente1166@email.com,Uberlândia,MG,2024-12-09,Google Ads
+1427,Marina Almeida,cliente1427@email.com,Belo Horizonte,MG,2024-12-11,Instagram
+1077,Vinícius Silva,,Sobral,CE,2024-11-15,Indicação
+506,Rafaela Souza,cliente506@email.com,São Paulo,SP,2024-09-30,E-mail
+1239,Carla Pereira,cliente1239@email.com,Niterói,RJ,2024-02-11,Google Ads
+818,Felipe Souza,cliente818@email.com,Salvador,BA,2025-04-02,Indicação
+132,Elaine Almeida,cliente132@email.com,Rio de Janeiro,RJ,2025-12-15,Google Ads
+913,Diego Souza,cliente913@email.com,Santos,SP,2024-11-25,Google Ads
+293,Elaine Silva,cliente293@email.com,Sobral,CE,2024-12-06,Indicação
+16,Karen Santos,cliente16@email.com,Santos,SP,2025-08-03,E-mail
+414,João Silva,cliente414@email.com,São Paulo,SP,2024-12-06,Instagram
+565,Elaine Rocha,cliente565@email.com,São Paulo,SP,2024-07-26,Instagram
+940,Bruno Costa,cliente940@email.com,Feira de Santana,BA,2024-06-05,Indicação
+1030,Elaine Santos,cliente1030@email.com,Fortaleza,CE,2025-06-12,E-mail
+416,Karen Lima,,Londrina,PR,2025-07-19,E-mail
+1204,Tatiana Oliveira,cliente1204@email.com,São Paulo,SP,2025-04-18,Instagram
+636,Elaine Lima,cliente636@email.com,Brasília,DF,2024-08-21,Orgânico
+1178,Lucas Costa,cliente1178@email.com,Londrina,PR,2025-04-30,Google Ads
+1237,Nicolas Souza,cliente1237@email.com,Campinas,SP,2024-08-21,Google Ads
+326,Samuel Souza,cliente326@email.com,Belo Horizonte,MG,2025-09-21,Indicação
+1429,Vinícius Costa,cliente1429@email.com,Olinda,PE,2025-10-01,Instagram
+1362,Ana Oliveira,cliente1362@email.com,Caruaru,PE,2024-04-29,E-mail
+886,  Paulo Santos ,cliente886@email.com,Campinas,SP,2025-09-29,Google Ads
+635,João Lima,cliente635@email.com,Campinas,SP,2024-11-06,Google Ads
+1406,Felipe Silva,cliente1406@email.com,São Paulo,SP,2025-10-12,Indicação
+267,João Oliveira,cliente267@email.com,São Paulo,SP,2025-01-06,Orgânico
+423,Paulo Almeida,cliente423@email.com,Brasília,DF,2025-10-19,Orgânico
+797,Tatiana Oliveira,cliente797@email.com,Recife,PE,2025-08-10,Indicação
+141,Vinícius Almeida,cliente141@email.com,Olinda,PE,2025-04-06,Google Ads
+980,Nicolas Costa,cliente980@email.com,Porto Alegre,RS,2024-09-09,Indicação
+857,Gabriela Lima,cliente857@email.com,Feira de Santana,BA,2024-03-02,Google Ads
+1099,Ana Rocha,cliente1099@email.com,São Paulo,SP,2024-02-04,Google Ads
+265,João Ferreira,cliente265@email.com,Uberlândia,MG,2024-03-27,Orgânico
+227,Diego Pereira,cliente227@email.com,Uberlândia,MG,2024-08-17,Google Ads
+322,  Tatiana Oliveira ,cliente322@email.com,Porto Alegre,RS,2025-07-18,E-mail
+1434,Diego Ferreira,cliente1434@email.com,Rio de Janeiro,RJ,2024-01-20,Google Ads
+842,Paulo Rocha,cliente842@email.com,Recife,PE,2024-03-21,Indicação
+670,Marina Silva,cliente670@email.com,São Paulo,SP,2025-05-03,Indicação
+1421,Diego Souza,cliente1421@email.com,Uberlândia,MG,2025-02-22,Indicação
+23,Isabela Pereira,cliente23@email.com,Salvador,BA,2025-07-03,Orgânico
+1062,Elaine Lima,cliente1062@email.com,Brasília,DF,2025-02-17,Orgânico
+755,Nicolas Souza,cliente755@email.com,Rio de Janeiro,RJ,2025-12-20,Google Ads
+118,Hugo Almeida,cliente118@email.com,Santos,SP,2025-04-06,Indicação
+932,Elaine Oliveira,cliente932@email.com,Olinda,PE,2024-12-30,Orgânico
+144,Elaine Lima,cliente144@email.com,Rio de Janeiro,RJ,2025-10-25,Google Ads
+1074,Carla Oliveira,cliente1074@email.com,Caruaru,PE,2025-05-08,Indicação
+1351,Olívia Santos,cliente1351@email.com,Caruaru,PE,2024-12-15,Instagram
+597,Samuel Rocha,cliente597@email.com,Uberlândia,MG,2024-06-27,Instagram
+478,Olívia Pereira,cliente478@email.com,Rio de Janeiro,RJ,2025-12-14,Orgânico
+422,Samuel Pereira,cliente422@email.com,Caxias do Sul,RS,2025-05-26,E-mail
+582,Paulo Ferreira,cliente582@email.com,Sobral,ce,2025-01-02,Orgânico
+791,Rafaela Costa,cliente791@email.com,Campinas,SP,2024-08-16,Orgânico
+143,Tatiana Santos,cliente143@email.com,Londrina,PR,2025-10-02,Google Ads
+408,Marina Oliveira,cliente408@email.com,Santos,sp,2024-11-03,E-mail
+383,Rafaela Lima,cliente383@email.com,Santos,SP,2025-02-19,Google Ads
+55,Olívia Ferreira,cliente55@email.com,Santos,SP,2024-06-10,Orgânico
+1001,Karen Souza,cliente1001@email.com,Porto Alegre,RS,2024-11-01,Google Ads
+1236,Felipe Pereira,cliente1236@email.com,Feira de Santana,BA,2024-04-19,E-mail
+1412,Rafaela Santos,cliente1412@email.com,Salvador,BA,2025-01-21,Orgânico
+1383,Lucas Lima,cliente1383@email.com,Niterói,RJ,2024-01-19,Instagram
+364,Marina Pereira,cliente364@email.com,Salvador,BA,2025-01-23,Orgânico
+1133,Ana Silva,cliente1133@email.com,Porto Alegre,RS,2024-03-23,Google Ads
+1383,Lucas Lima,cliente1383@email.com,Niterói,RJ,2024-01-19,Instagram
+214,Bruno Ferreira,cliente214@email.com,Campinas,SP,2025-09-21,E-mail
+352,Karen Souza,cliente352@email.com,Sobral,CE,2025-01-12,Indicação
+191,Samuel Pereira,cliente191@email.com,Santos,SP,2024-05-15,Indicação
+624,Vinícius Oliveira,cliente624@email.com,Fortaleza,CE,2025-11-24,E-mail
+1309,Marina Costa,cliente1309@email.com,Santos,SP,2024-07-05,Instagram
+925,Vinícius Almeida,cliente925@email.com,Uberlândia,MG,2025-06-30,Orgânico
+1167,Olívia Rocha,cliente1167@email.com,Recife,PE,2025-01-09,Orgânico
+674,João Lima,cliente674@email.com,Campinas,SP,2024-02-16,Indicação
+223,Lucas Oliveira,cliente223@email.com,Caruaru,PE,2024-04-08,Google Ads
+973,Diego Oliveira,cliente973@email.com,São Paulo,SP,2024-07-11,Google Ads
+386,Samuel Santos,cliente386@email.com,Salvador,BA,2025-04-27,Indicação
+792,Vinícius Silva,cliente792@email.com,Rio de Janeiro,RJ,2025-05-08,E-mail
+1095,Tatiana Costa,cliente1095@email.com,Sobral,CE,2024-09-18,Instagram
+131,Elaine Lima,cliente131@email.com,Recife,PE,2025-06-30,Google Ads
+1437,Karen Costa,cliente1437@email.com,Porto Alegre,RS,2024-01-24,E-mail
+419,Bruno Rocha,cliente419@email.com,São Paulo,SP,2025-02-27,Instagram
+781,Samuel Almeida,cliente781@email.com,Rio de Janeiro,RJ,2025-07-10,Orgânico
+801,Vinícius Oliveira,cliente801@email.com,Santos,SP,2025-02-24,Instagram
+1176,Elaine Almeida,cliente1176@email.com,São Paulo,SP,2025-12-14,Instagram
+1245,Karen Santos,cliente1245@email.com,Caruaru,PE,2024-07-22,E-mail
+1235,Paulo Pereira,cliente1235@email.com,Curitiba,PR,2025-12-25,E-mail
+1290,Rafaela Lima,,Feira de Santana,BA,2025-08-17,Google Ads
+1164,Marina Pereira,cliente1164@email.com,Porto Alegre,RS,2024-03-13,Orgânico
+677,Gabriela Silva,cliente677@email.com,Santos,SP,2024-05-14,Indicação
+315,Karen Pereira,cliente315@email.com,Brasília,DF,2025-11-29,Indicação
+411,Karen Souza,cliente411@email.com,Campinas,SP,2024-07-27,Orgânico
+66,Samuel Costa,cliente66@email.com,Salvador,BA,2024-12-28,Instagram
+1163,Felipe Pereira,cliente1163@email.com,Caxias do Sul,RS,2025-02-19,Google Ads
+48,Carla Oliveira,cliente48@email.com,Recife,PE,2025-06-04,Indicação
+1485,Vinícius Silva,cliente1485@email.com,Caxias do Sul,RS,2025-11-06,E-mail
+668,Felipe Rocha,cliente668@email.com,Rio de Janeiro,RJ,2024-08-02,E-mail
+147,Carla Rocha,cliente147@email.com,Rio de Janeiro,RJ,2025-03-24,E-mail
+1102,Diego Oliveira,cliente1102@email.com,Sobral,CE,2024-07-08,Orgânico
+1415,Gabriela Almeida,cliente1415@email.com,Porto Alegre,RS,2025-05-02,Orgânico
+827,Marina Costa,cliente827@email.com,Fortaleza,CE,2024-12-27,Indicação
+1405,Rafaela Ferreira,cliente1405@email.com,Campinas,SP,2024-04-05,Indicação
+872,Elaine Oliveira,cliente872@email.com,Salvador,BA,2025-03-29,Google Ads
+859,Lucas Silva,cliente859@email.com,Niterói,RJ,2024-09-20,Google Ads
+462,Karen Costa,cliente462@email.com,Brasília,DF,2024-09-05,E-mail
+696,Felipe Souza,cliente696@email.com,Fortaleza,ce,2025-10-26,Google Ads
+727,Gabriela Rocha,cliente727@email.com,Uberlândia,MG,2024-07-24,Orgânico
+1350,Felipe Costa,cliente1350@email.com,Sobral,CE,2025-09-20,Google Ads
+1024,Vinícius Souza,cliente1024@email.com,Uberlândia,MG,2024-07-10,Orgânico
+20,Bruno Souza,cliente20@email.com,Rio de Janeiro,RJ,2024-04-03,Instagram
+626,Nicolas Santos,cliente626@email.com,Rio de Janeiro,RJ,2025-11-30,Indicação
+263,Vinícius Oliveira,cliente263@email.com,Feira de Santana,BA,2025-11-03,Google Ads
+1183,Elaine Pereira,cliente1183@email.com,Sobral,CE,2024-02-18,E-mail
+285,Rafaela Costa,cliente285@email.com,Rio de Janeiro,RJ,2025-09-15,Orgânico
+768,Isabela Santos,cliente768@email.com,São Paulo,SP,2025-09-23,Instagram
+62,Samuel Silva,cliente62@email.com,Rio de Janeiro,rj,2025-03-13,Google Ads
+1144,Carla Santos,cliente1144@email.com,Niterói,RJ,2024-04-28,Indicação
+922,Tatiana Oliveira,cliente922@email.com,Niterói,RJ,2024-09-11,Google Ads
+899,Bruno Rocha,cliente899@email.com,Sobral,CE,2024-01-10,Indicação
+1489,Tatiana Oliveira,cliente1489@email.com,Uberlândia,MG,2024-07-17,Orgânico
+856,Tatiana Silva,cliente856@email.com,Campinas,SP,2025-07-29,Google Ads
+1430,Samuel Silva,cliente1430@email.com,Londrina,PR,2024-12-13,Orgânico
+879,Paulo Lima,cliente879@email.com,Recife,PE,2025-05-18,E-mail
+385,Elaine Almeida,cliente385@email.com,Londrina,PR,2025-05-04,E-mail
+642,Gabriela Lima,cliente642@email.com,Olinda,PE,2025-01-04,E-mail
+176,Diego Almeida,cliente176@email.com,Rio de Janeiro,RJ,2024-04-10,Orgânico
+698,Vinícius Costa,cliente698@email.com,Feira de Santana,BA,2024-07-04,Indicação
+945,Samuel Rocha,cliente945@email.com,Belo Horizonte,MG,2024-07-19,Instagram
+1480,Olívia Souza,cliente1480@email.com,Sobral,CE,2025-09-26,Indicação
+960,Gabriela Ferreira,cliente960@email.com,Niterói,RJ,2024-07-09,Indicação
+1132,Vinícius Costa,cliente1132@email.com,Recife,PE,2025-10-09,Google Ads
+1203,Ana Costa,,Sobral,CE,2024-03-31,E-mail
+1057,Carla Santos,cliente1057@email.com,Belo Horizonte,MG,2024-03-03,Indicação
+479,Diego Silva,cliente479@email.com,Olinda,PE,2025-12-28,
+972,Nicolas Lima,cliente972@email.com,Sobral,CE,2025-02-27,Orgânico
+430,Nicolas Oliveira,cliente430@email.com,Fortaleza,CE,2025-11-21,Google Ads
+1482,Olívia Silva,cliente1482@email.com,Sobral,CE,2024-03-04,Indicação
+465,Carla Costa,cliente465@email.com,Sobral,CE,2025-12-10,Instagram
+467,Paulo Rocha,cliente467@email.com,Olinda,PE,2025-09-04,Indicação
+815,Marina Santos,cliente815@email.com,Campinas,SP,2024-10-09,Indicação
+306,Felipe Silva,cliente306@email.com,Fortaleza,CE,2025-11-26,Indicação
+1050,  Olívia Costa ,cliente1050@email.com,Sobral,CE,2025-06-29,Instagram
+1340,Paulo Almeida,cliente1340@email.com,Niterói,RJ,2025-12-25,Indicação
+967,João Rocha,cliente967@email.com,Uberlândia,MG,2025-03-12,E-mail
+25,João Ferreira,cliente25@email.com,Curitiba,PR,2025-10-02,Instagram
+1343,Carla Ferreira,cliente1343@email.com,Santos,SP,2024-02-26,E-mail
+1188,Lucas Almeida,cliente1188@email.com,Brasília,DF,2024-05-31,Indicação
+831,Rafaela Souza,cliente831@email.com,Santos,SP,2025-02-20,Google Ads
+828,Carla Souza,cliente828@email.com,Caruaru,PE,2025-12-21,Orgânico
+710,Ana Souza,cliente710@email.com,Caruaru,PE,2025-07-16,Indicação
+578,Elaine Silva,cliente578@email.com,Santos,SP,2025-04-01,Indicação
+614,Nicolas Souza,cliente614@email.com,Olinda,PE,2024-01-04,Indicação
+18,Samuel Lima,cliente18@email.com,Santos,SP,2025-07-28,Indicação
+535,Gabriela Silva,cliente535@email.com,Recife,PE,2024-09-25,E-mail
+1113,Diego Rocha,cliente1113@email.com,Londrina,PR,2025-05-08,Orgânico
+1467,Marina Souza,cliente1467@email.com,Brasília,DF,2025-10-15,Indicação
+283,Elaine Almeida,cliente283@email.com,Campinas,SP,2025-04-28,Indicação
+1238,Elaine Almeida,cliente1238@email.com,Niterói,RJ,2025-06-16,Orgânico
+1446,Hugo Silva,cliente1446@email.com,Niterói,RJ,2025-02-21,Indicação
+391,Nicolas Almeida,cliente391@email.com,Rio de Janeiro,RJ,2025-06-09,Indicação
+563,Elaine Santos,cliente563@email.com,Uberlândia,MG,2025-03-21,Orgânico
+1400,Marina Ferreira,cliente1400@email.com,Brasília,DF,2025-03-05,Orgânico
